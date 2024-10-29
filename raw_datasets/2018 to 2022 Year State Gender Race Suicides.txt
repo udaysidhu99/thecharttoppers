@@ -1,0 +1,1922 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	"Gender"	"Gender Code"	"Single Race 6"	"Single Race 6 Code"	Deaths	Population	Crude Rate
+	"2018"	"2018"	"Alabama"	"01"	"Female"	"F"	"Black or African American"	"2054-5"	17	701054	Unreliable
+	"2018"	"2018"	"Alabama"	"01"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2506	Unreliable
+	"2018"	"2018"	"Alabama"	"01"	"Female"	"F"	"White"	"2106-3"	160	1721425	9.3
+	"2018"	"2018"	"Alabama"	"01"	"Female"	"F"	"More than one race"	"M"	0	42883	Unreliable
+	"2018"	"2018"	"Alabama"	"01"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	17374	Unreliable
+	"2018"	"2018"	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	74	609748	12.1
+	"2018"	"2018"	"Alabama"	"01"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2701	Unreliable
+	"2018"	"2018"	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	562	1658530	33.9
+	"2018"	"2018"	"Alabama"	"01"	"Male"	"M"	"More than one race"	"M"	0	41482	Unreliable
+	"2018"	"2018"	"Alaska"	"02"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	14	56118	Unreliable
+	"2018"	"2018"	"Alaska"	"02"	"Female"	"F"	"Asian"	"A"	0	25860	Unreliable
+	"2018"	"2018"	"Alaska"	"02"	"Female"	"F"	"Black or African American"	"2054-5"	0	12158	Unreliable
+	"2018"	"2018"	"Alaska"	"02"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5057	Unreliable
+	"2018"	"2018"	"Alaska"	"02"	"Female"	"F"	"White"	"2106-3"	22	226558	9.7
+	"2018"	"2018"	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	38	57398	66.2
+	"2018"	"2018"	"Alaska"	"02"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5164	Unreliable
+	"2018"	"2018"	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	92	255321	36.0
+	"2018"	"2018"	"Arizona"	"04"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	18	192813	Unreliable
+	"2018"	"2018"	"Arizona"	"04"	"Female"	"F"	"Black or African American"	"2054-5"	10	176787	Unreliable
+	"2018"	"2018"	"Arizona"	"04"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9261	Unreliable
+	"2018"	"2018"	"Arizona"	"04"	"Female"	"F"	"White"	"2106-3"	250	2984112	8.4
+	"2018"	"2018"	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	90	187347	48.0
+	"2018"	"2018"	"Arizona"	"04"	"Male"	"M"	"Asian"	"A"	10	124070	Unreliable
+	"2018"	"2018"	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	45	187493	24.0
+	"2018"	"2018"	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	994	2953694	33.7
+	"2018"	"2018"	"Arizona"	"04"	"Male"	"M"	"More than one race"	"M"	23	102207	22.5
+	"2018"	"2018"	"Arkansas"	"05"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	15159	Unreliable
+	"2018"	"2018"	"Arkansas"	"05"	"Female"	"F"	"Asian"	"A"	0	25843	Unreliable
+	"2018"	"2018"	"Arkansas"	"05"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5274	Unreliable
+	"2018"	"2018"	"Arkansas"	"05"	"Female"	"F"	"White"	"2106-3"	111	1207069	9.2
+	"2018"	"2018"	"Arkansas"	"05"	"Male"	"M"	"Asian"	"A"	0	24458	Unreliable
+	"2018"	"2018"	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	26	224736	11.6
+	"2018"	"2018"	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	406	1178144	34.5
+	"2018"	"2018"	"Arkansas"	"05"	"Male"	"M"	"More than one race"	"M"	0	32132	Unreliable
+	"2018"	"2018"	"California"	"06"	"Female"	"F"	"Asian"	"A"	115	3186076	3.6
+	"2018"	"2018"	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	44	1287498	3.4
+	"2018"	"2018"	"California"	"06"	"Female"	"F"	"White"	"2106-3"	825	14217030	5.8
+	"2018"	"2018"	"California"	"06"	"Female"	"F"	"More than one race"	"M"	27	782144	3.5
+	"2018"	"2018"	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	24	330798	7.3
+	"2018"	"2018"	"California"	"06"	"Male"	"M"	"Asian"	"A"	289	2877524	10.0
+	"2018"	"2018"	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	148	1268502	11.7
+	"2018"	"2018"	"California"	"06"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	15	99430	Unreliable
+	"2018"	"2018"	"California"	"06"	"Male"	"M"	"White"	"2106-3"	2947	14314710	20.6
+	"2018"	"2018"	"California"	"06"	"Male"	"M"	"More than one race"	"M"	106	772613	13.7
+	"2018"	"2018"	"Colorado"	"08"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5286	Unreliable
+	"2018"	"2018"	"Colorado"	"08"	"Female"	"F"	"White"	"2106-3"	284	2461312	11.5
+	"2018"	"2018"	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	14	46313	Unreliable
+	"2018"	"2018"	"Colorado"	"08"	"Male"	"M"	"Asian"	"A"	15	91208	Unreliable
+	"2018"	"2018"	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	34	138405	24.6
+	"2018"	"2018"	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	912	2497998	36.5
+	"2018"	"2018"	"Colorado"	"08"	"Male"	"M"	"More than one race"	"M"	17	88297	Unreliable
+	"2018"	"2018"	"Connecticut"	"09"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	9708	Unreliable
+	"2018"	"2018"	"Connecticut"	"09"	"Female"	"F"	"Black or African American"	"2054-5"	11	224290	Unreliable
+	"2018"	"2018"	"Connecticut"	"09"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1791	Unreliable
+	"2018"	"2018"	"Connecticut"	"09"	"Female"	"F"	"White"	"2106-3"	93	1459961	6.4
+	"2018"	"2018"	"Connecticut"	"09"	"Female"	"F"	"More than one race"	"M"	0	43993	Unreliable
+	"2018"	"2018"	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	10235	Unreliable
+	"2018"	"2018"	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	16	205008	Unreliable
+	"2018"	"2018"	"Connecticut"	"09"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2049	Unreliable
+	"2018"	"2018"	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	294	1399319	21.0
+	"2018"	"2018"	"Delaware"	"10"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	3211	Unreliable
+	"2018"	"2018"	"Delaware"	"10"	"Female"	"F"	"Asian"	"A"	0	20136	Unreliable
+	"2018"	"2018"	"Delaware"	"10"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	513	Unreliable
+	"2018"	"2018"	"Delaware"	"10"	"Female"	"F"	"White"	"2106-3"	18	344572	Unreliable
+	"2018"	"2018"	"Delaware"	"10"	"Female"	"F"	"More than one race"	"M"	0	13461	Unreliable
+	"2018"	"2018"	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	3247	Unreliable
+	"2018"	"2018"	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	14	104719	Unreliable
+	"2018"	"2018"	"Delaware"	"10"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	536	Unreliable
+	"2018"	"2018"	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	78	327447	23.8
+	"2018"	"2018"	"Delaware"	"10"	"Male"	"M"	"More than one race"	"M"	0	12530	Unreliable
+	"2018"	"2018"	"District of Columbia"	"11"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1906	Unreliable
+	"2018"	"2018"	"District of Columbia"	"11"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	499	Unreliable
+	"2018"	"2018"	"District of Columbia"	"11"	"Female"	"F"	"More than one race"	"M"	0	10797	Unreliable
+	"2018"	"2018"	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2390	Unreliable
+	"2018"	"2018"	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	15	148423	Unreliable
+	"2018"	"2018"	"District of Columbia"	"11"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	476	Unreliable
+	"2018"	"2018"	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	26	160080	16.2
+	"2018"	"2018"	"Florida"	"12"	"Female"	"F"	"Asian"	"A"	15	340053	Unreliable
+	"2018"	"2018"	"Florida"	"12"	"Female"	"F"	"Black or African American"	"2054-5"	41	1865163	2.2
+	"2018"	"2018"	"Florida"	"12"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	11958	Unreliable
+	"2018"	"2018"	"Florida"	"12"	"Female"	"F"	"White"	"2106-3"	701	8383044	8.4
+	"2018"	"2018"	"Florida"	"12"	"Female"	"F"	"More than one race"	"M"	10	235998	Unreliable
+	"2018"	"2018"	"Florida"	"12"	"Male"	"M"	"Asian"	"A"	25	291684	8.6
+	"2018"	"2018"	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	186	1734958	10.7
+	"2018"	"2018"	"Florida"	"12"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12395	Unreliable
+	"2018"	"2018"	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	2590	8089081	32.0
+	"2018"	"2018"	"Florida"	"12"	"Male"	"M"	"More than one race"	"M"	18	228007	Unreliable
+	"2018"	"2018"	"Georgia"	"13"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	26041	Unreliable
+	"2018"	"2018"	"Georgia"	"13"	"Female"	"F"	"Asian"	"A"	12	233629	Unreliable
+	"2018"	"2018"	"Georgia"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	50	1815639	2.8
+	"2018"	"2018"	"Georgia"	"13"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5961	Unreliable
+	"2018"	"2018"	"Georgia"	"13"	"Female"	"F"	"White"	"2106-3"	289	3205497	9.0
+	"2018"	"2018"	"Georgia"	"13"	"Male"	"M"	"Asian"	"A"	28	219859	12.7
+	"2018"	"2018"	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	221	1595506	13.9
+	"2018"	"2018"	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	965	3155031	30.6
+	"2018"	"2018"	"Hawaii"	"15"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2618	Unreliable
+	"2018"	"2018"	"Hawaii"	"15"	"Female"	"F"	"Asian"	"A"	15	286760	Unreliable
+	"2018"	"2018"	"Hawaii"	"15"	"Female"	"F"	"White"	"2106-3"	10	168529	Unreliable
+	"2018"	"2018"	"Hawaii"	"15"	"Female"	"F"	"More than one race"	"M"	11	168191	Unreliable
+	"2018"	"2018"	"Hawaii"	"15"	"Male"	"M"	"Asian"	"A"	27	247891	10.9
+	"2018"	"2018"	"Hawaii"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	0	18786	Unreliable
+	"2018"	"2018"	"Hawaii"	"15"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	15	73767	Unreliable
+	"2018"	"2018"	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	54	195020	27.7
+	"2018"	"2018"	"Hawaii"	"15"	"Male"	"M"	"More than one race"	"M"	39	172527	22.6
+	"2018"	"2018"	"Idaho"	"16"	"Female"	"F"	"Asian"	"A"	0	15789	Unreliable
+	"2018"	"2018"	"Idaho"	"16"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1839	Unreliable
+	"2018"	"2018"	"Idaho"	"16"	"Female"	"F"	"White"	"2106-3"	87	813702	10.7
+	"2018"	"2018"	"Idaho"	"16"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	16	15276	Unreliable
+	"2018"	"2018"	"Idaho"	"16"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2044	Unreliable
+	"2018"	"2018"	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	308	818486	37.6
+	"2018"	"2018"	"Illinois"	"17"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	36301	Unreliable
+	"2018"	"2018"	"Illinois"	"17"	"Female"	"F"	"Asian"	"A"	14	388237	Unreliable
+	"2018"	"2018"	"Illinois"	"17"	"Female"	"F"	"Black or African American"	"2054-5"	27	985724	2.7
+	"2018"	"2018"	"Illinois"	"17"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4025	Unreliable
+	"2018"	"2018"	"Illinois"	"17"	"Female"	"F"	"White"	"2106-3"	287	4937246	5.8
+	"2018"	"2018"	"Illinois"	"17"	"Male"	"M"	"Asian"	"A"	31	360485	8.6
+	"2018"	"2018"	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	99	874466	11.3
+	"2018"	"2018"	"Illinois"	"17"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4420	Unreliable
+	"2018"	"2018"	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	1031	4854594	21.2
+	"2018"	"2018"	"Indiana"	"18"	"Female"	"F"	"Black or African American"	"2054-5"	15	340822	Unreliable
+	"2018"	"2018"	"Indiana"	"18"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2233	Unreliable
+	"2018"	"2018"	"Indiana"	"18"	"Female"	"F"	"White"	"2106-3"	233	2880916	8.1
+	"2018"	"2018"	"Indiana"	"18"	"Female"	"F"	"More than one race"	"M"	0	71352	Unreliable
+	"2018"	"2018"	"Indiana"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	14185	Unreliable
+	"2018"	"2018"	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	46	317907	14.5
+	"2018"	"2018"	"Indiana"	"18"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2309	Unreliable
+	"2018"	"2018"	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	774	2813552	27.5
+	"2018"	"2018"	"Iowa"	"19"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2023	Unreliable
+	"2018"	"2018"	"Iowa"	"19"	"Female"	"F"	"White"	"2106-3"	83	1444265	5.7
+	"2018"	"2018"	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	389	1419861	27.4
+	"2018"	"2018"	"Kansas"	"20"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1631	Unreliable
+	"2018"	"2018"	"Kansas"	"20"	"Female"	"F"	"White"	"2106-3"	106	1265247	8.4
+	"2018"	"2018"	"Kansas"	"20"	"Male"	"M"	"Asian"	"A"	11	44548	Unreliable
+	"2018"	"2018"	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	23	92416	24.9
+	"2018"	"2018"	"Kansas"	"20"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1988	Unreliable
+	"2018"	"2018"	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	398	1250104	31.8
+	"2018"	"2018"	"Kentucky"	"21"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	6415	Unreliable
+	"2018"	"2018"	"Kentucky"	"21"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1913	Unreliable
+	"2018"	"2018"	"Kentucky"	"21"	"Female"	"F"	"White"	"2106-3"	136	1987622	6.8
+	"2018"	"2018"	"Kentucky"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	6997	Unreliable
+	"2018"	"2018"	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	32	187002	17.1
+	"2018"	"2018"	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	623	1926314	32.3
+	"2018"	"2018"	"Louisiana"	"22"	"Female"	"F"	"Black or African American"	"2054-5"	26	802115	3.2
+	"2018"	"2018"	"Louisiana"	"22"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1360	Unreliable
+	"2018"	"2018"	"Louisiana"	"22"	"Female"	"F"	"White"	"2106-3"	131	1480466	8.8
+	"2018"	"2018"	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	86	723975	11.9
+	"2018"	"2018"	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	472	1449966	32.6
+	"2018"	"2018"	"Louisiana"	"22"	"Male"	"M"	"More than one race"	"M"	0	39299	Unreliable
+	"2018"	"2018"	"Maine"	"23"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	4864	Unreliable
+	"2018"	"2018"	"Maine"	"23"	"Female"	"F"	"Asian"	"A"	0	9272	Unreliable
+	"2018"	"2018"	"Maine"	"23"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	218	Unreliable
+	"2018"	"2018"	"Maine"	"23"	"Female"	"F"	"White"	"2106-3"	51	646565	7.9
+	"2018"	"2018"	"Maine"	"23"	"Female"	"F"	"More than one race"	"M"	0	12132	Unreliable
+	"2018"	"2018"	"Maine"	"23"	"Male"	"M"	"Asian"	"A"	0	7402	Unreliable
+	"2018"	"2018"	"Maine"	"23"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	237	Unreliable
+	"2018"	"2018"	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	208	619083	33.6
+	"2018"	"2018"	"Maryland"	"24"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	17451	Unreliable
+	"2018"	"2018"	"Maryland"	"24"	"Female"	"F"	"Black or African American"	"2054-5"	29	994557	2.9
+	"2018"	"2018"	"Maryland"	"24"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3267	Unreliable
+	"2018"	"2018"	"Maryland"	"24"	"Female"	"F"	"White"	"2106-3"	128	1795908	7.1
+	"2018"	"2018"	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	18737	Unreliable
+	"2018"	"2018"	"Maryland"	"24"	"Male"	"M"	"Asian"	"A"	20	192747	10.4
+	"2018"	"2018"	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	82	873035	9.4
+	"2018"	"2018"	"Maryland"	"24"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3479	Unreliable
+	"2018"	"2018"	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	393	1756447	22.4
+	"2018"	"2018"	"Massachusetts"	"25"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	16741	Unreliable
+	"2018"	"2018"	"Massachusetts"	"25"	"Female"	"F"	"Black or African American"	"2054-5"	11	317389	Unreliable
+	"2018"	"2018"	"Massachusetts"	"25"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3797	Unreliable
+	"2018"	"2018"	"Massachusetts"	"25"	"Female"	"F"	"White"	"2106-3"	165	2868746	5.8
+	"2018"	"2018"	"Massachusetts"	"25"	"Male"	"M"	"Asian"	"A"	14	235289	Unreliable
+	"2018"	"2018"	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	31	299708	10.3
+	"2018"	"2018"	"Massachusetts"	"25"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3620	Unreliable
+	"2018"	"2018"	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	515	2708448	19.0
+	"2018"	"2018"	"Michigan"	"26"	"Female"	"F"	"Asian"	"A"	11	171205	Unreliable
+	"2018"	"2018"	"Michigan"	"26"	"Female"	"F"	"Black or African American"	"2054-5"	29	739319	3.9
+	"2018"	"2018"	"Michigan"	"26"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2056	Unreliable
+	"2018"	"2018"	"Michigan"	"26"	"Female"	"F"	"White"	"2106-3"	273	3998405	6.8
+	"2018"	"2018"	"Michigan"	"26"	"Male"	"M"	"Asian"	"A"	14	166131	Unreliable
+	"2018"	"2018"	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	110	669073	16.4
+	"2018"	"2018"	"Michigan"	"26"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2086	Unreliable
+	"2018"	"2018"	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	1088	3925522	27.7
+	"2018"	"2018"	"Michigan"	"26"	"Male"	"M"	"More than one race"	"M"	24	122729	19.6
+	"2018"	"2018"	"Minnesota"	"27"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2035	Unreliable
+	"2018"	"2018"	"Minnesota"	"27"	"Female"	"F"	"White"	"2106-3"	124	2370597	5.2
+	"2018"	"2018"	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	15	38435	Unreliable
+	"2018"	"2018"	"Minnesota"	"27"	"Male"	"M"	"Asian"	"A"	19	141223	Unreliable
+	"2018"	"2018"	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	18	194479	Unreliable
+	"2018"	"2018"	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	546	2347579	23.3
+	"2018"	"2018"	"Mississippi"	"28"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	9273	Unreliable
+	"2018"	"2018"	"Mississippi"	"28"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	813	Unreliable
+	"2018"	"2018"	"Mississippi"	"28"	"Female"	"F"	"White"	"2106-3"	72	893567	8.1
+	"2018"	"2018"	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	52	530458	9.8
+	"2018"	"2018"	"Mississippi"	"28"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	999	Unreliable
+	"2018"	"2018"	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	288	872734	33.0
+	"2018"	"2018"	"Missouri"	"29"	"Female"	"F"	"Black or African American"	"2054-5"	11	379842	Unreliable
+	"2018"	"2018"	"Missouri"	"29"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4728	Unreliable
+	"2018"	"2018"	"Missouri"	"29"	"Female"	"F"	"White"	"2106-3"	252	2576191	9.8
+	"2018"	"2018"	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	70	344687	20.3
+	"2018"	"2018"	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	877	2506380	35.0
+	"2018"	"2018"	"Missouri"	"29"	"Male"	"M"	"More than one race"	"M"	10	71656	Unreliable
+	"2018"	"2018"	"Montana"	"30"	"Female"	"F"	"White"	"2106-3"	47	468726	10.0
+	"2018"	"2018"	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	12	35027	Unreliable
+	"2018"	"2018"	"Montana"	"30"	"Male"	"M"	"Asian"	"A"	0	4281	Unreliable
+	"2018"	"2018"	"Montana"	"30"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	492	Unreliable
+	"2018"	"2018"	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	189	476406	39.7
+	"2018"	"2018"	"Nebraska"	"31"	"Female"	"F"	"Asian"	"A"	0	26736	Unreliable
+	"2018"	"2018"	"Nebraska"	"31"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1083	Unreliable
+	"2018"	"2018"	"Nebraska"	"31"	"Female"	"F"	"White"	"2106-3"	43	854032	5.0
+	"2018"	"2018"	"Nebraska"	"31"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1255	Unreliable
+	"2018"	"2018"	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	215	849414	25.3
+	"2018"	"2018"	"Nevada"	"32"	"Female"	"F"	"Black or African American"	"2054-5"	12	154523	Unreliable
+	"2018"	"2018"	"Nevada"	"32"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	11990	Unreliable
+	"2018"	"2018"	"Nevada"	"32"	"Female"	"F"	"White"	"2106-3"	139	1106880	12.6
+	"2018"	"2018"	"Nevada"	"32"	"Male"	"M"	"Asian"	"A"	24	118981	20.2
+	"2018"	"2018"	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	26	151325	17.2
+	"2018"	"2018"	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	431	1146831	37.6
+	"2018"	"2018"	"New Hampshire"	"33"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1926	Unreliable
+	"2018"	"2018"	"New Hampshire"	"33"	"Female"	"F"	"Asian"	"A"	0	20993	Unreliable
+	"2018"	"2018"	"New Hampshire"	"33"	"Female"	"F"	"Black or African American"	"2054-5"	0	10158	Unreliable
+	"2018"	"2018"	"New Hampshire"	"33"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	306	Unreliable
+	"2018"	"2018"	"New Hampshire"	"33"	"Female"	"F"	"White"	"2106-3"	55	639123	8.6
+	"2018"	"2018"	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2164	Unreliable
+	"2018"	"2018"	"New Hampshire"	"33"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	331	Unreliable
+	"2018"	"2018"	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	217	625094	34.7
+	"2018"	"2018"	"New Hampshire"	"33"	"Male"	"M"	"More than one race"	"M"	0	12075	Unreliable
+	"2018"	"2018"	"New Jersey"	"34"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	26569	Unreliable
+	"2018"	"2018"	"New Jersey"	"34"	"Female"	"F"	"Asian"	"A"	13	456512	Unreliable
+	"2018"	"2018"	"New Jersey"	"34"	"Female"	"F"	"Black or African American"	"2054-5"	12	701557	Unreliable
+	"2018"	"2018"	"New Jersey"	"34"	"Female"	"F"	"White"	"2106-3"	157	3264821	4.8
+	"2018"	"2018"	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	28137	Unreliable
+	"2018"	"2018"	"New Jersey"	"34"	"Male"	"M"	"Asian"	"A"	33	432739	7.6
+	"2018"	"2018"	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	47	636197	7.4
+	"2018"	"2018"	"New Jersey"	"34"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4928	Unreliable
+	"2018"	"2018"	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	515	3151526	16.3
+	"2018"	"2018"	"New Mexico"	"35"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	17	117362	Unreliable
+	"2018"	"2018"	"New Mexico"	"35"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1690	Unreliable
+	"2018"	"2018"	"New Mexico"	"35"	"Female"	"F"	"White"	"2106-3"	107	867615	12.3
+	"2018"	"2018"	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	46	111131	41.4
+	"2018"	"2018"	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	10	29402	Unreliable
+	"2018"	"2018"	"New Mexico"	"35"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1714	Unreliable
+	"2018"	"2018"	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	340	851286	39.9
+	"2018"	"2018"	"New York"	"36"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	94828	Unreliable
+	"2018"	"2018"	"New York"	"36"	"Female"	"F"	"Asian"	"A"	32	915607	3.5
+	"2018"	"2018"	"New York"	"36"	"Female"	"F"	"Black or African American"	"2054-5"	43	1836083	2.3
+	"2018"	"2018"	"New York"	"36"	"Female"	"F"	"White"	"2106-3"	307	6932682	4.4
+	"2018"	"2018"	"New York"	"36"	"Male"	"M"	"Asian"	"A"	67	834406	8.0
+	"2018"	"2018"	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	141	1611646	8.7
+	"2018"	"2018"	"New York"	"36"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	13147	Unreliable
+	"2018"	"2018"	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	1147	6687249	17.2
+	"2018"	"2018"	"North Carolina"	"37"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	82247	Unreliable
+	"2018"	"2018"	"North Carolina"	"37"	"Female"	"F"	"Black or African American"	"2054-5"	25	1226256	2.0
+	"2018"	"2018"	"North Carolina"	"37"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6340	Unreliable
+	"2018"	"2018"	"North Carolina"	"37"	"Female"	"F"	"White"	"2106-3"	298	3726479	8.0
+	"2018"	"2018"	"North Carolina"	"37"	"Male"	"M"	"Asian"	"A"	12	159464	Unreliable
+	"2018"	"2018"	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	118	1080541	10.9
+	"2018"	"2018"	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	1030	3607932	28.5
+	"2018"	"2018"	"North Dakota"	"38"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	291	Unreliable
+	"2018"	"2018"	"North Dakota"	"38"	"Female"	"F"	"White"	"2106-3"	29	323506	9.0
+	"2018"	"2018"	"North Dakota"	"38"	"Female"	"F"	"More than one race"	"M"	0	8231	Unreliable
+	"2018"	"2018"	"North Dakota"	"38"	"Male"	"M"	"Asian"	"A"	0	6807	Unreliable
+	"2018"	"2018"	"North Dakota"	"38"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	282	Unreliable
+	"2018"	"2018"	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	101	338043	29.9
+	"2018"	"2018"	"Ohio"	"39"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	16436	Unreliable
+	"2018"	"2018"	"Ohio"	"39"	"Female"	"F"	"Black or African American"	"2054-5"	33	790221	4.2
+	"2018"	"2018"	"Ohio"	"39"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3382	Unreliable
+	"2018"	"2018"	"Ohio"	"39"	"Female"	"F"	"White"	"2106-3"	358	4862927	7.4
+	"2018"	"2018"	"Ohio"	"39"	"Male"	"M"	"Asian"	"A"	13	138706	Unreliable
+	"2018"	"2018"	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	130	727778	17.9
+	"2018"	"2018"	"Ohio"	"39"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3612	Unreliable
+	"2018"	"2018"	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	1318	4708595	28.0
+	"2018"	"2018"	"Oklahoma"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	18	185742	Unreliable
+	"2018"	"2018"	"Oklahoma"	"40"	"Female"	"F"	"Asian"	"A"	0	48453	Unreliable
+	"2018"	"2018"	"Oklahoma"	"40"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3665	Unreliable
+	"2018"	"2018"	"Oklahoma"	"40"	"Female"	"F"	"White"	"2106-3"	139	1474578	9.4
+	"2018"	"2018"	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	49	181301	27.0
+	"2018"	"2018"	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	26	154035	16.9
+	"2018"	"2018"	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	522	1449787	36.0
+	"2018"	"2018"	"Oklahoma"	"40"	"Male"	"M"	"More than one race"	"M"	29	120294	24.1
+	"2018"	"2018"	"Oregon"	"41"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9253	Unreliable
+	"2018"	"2018"	"Oregon"	"41"	"Female"	"F"	"White"	"2106-3"	198	1832790	10.8
+	"2018"	"2018"	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	600	1803136	33.3
+	"2018"	"2018"	"Pennsylvania"	"42"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	24355	Unreliable
+	"2018"	"2018"	"Pennsylvania"	"42"	"Female"	"F"	"Asian"	"A"	15	245629	Unreliable
+	"2018"	"2018"	"Pennsylvania"	"42"	"Female"	"F"	"Black or African American"	"2054-5"	27	792031	3.4
+	"2018"	"2018"	"Pennsylvania"	"42"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5070	Unreliable
+	"2018"	"2018"	"Pennsylvania"	"42"	"Female"	"F"	"White"	"2106-3"	382	5329817	7.2
+	"2018"	"2018"	"Pennsylvania"	"42"	"Male"	"M"	"Asian"	"A"	28	228442	12.3
+	"2018"	"2018"	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	90	739426	12.2
+	"2018"	"2018"	"Pennsylvania"	"42"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4986	Unreliable
+	"2018"	"2018"	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	1477	5146268	28.7
+	"2018"	"2018"	"Rhode Island"	"44"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	5690	Unreliable
+	"2018"	"2018"	"Rhode Island"	"44"	"Female"	"F"	"Black or African American"	"2054-5"	0	44574	Unreliable
+	"2018"	"2018"	"Rhode Island"	"44"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1076	Unreliable
+	"2018"	"2018"	"Rhode Island"	"44"	"Female"	"F"	"White"	"2106-3"	22	456501	4.8
+	"2018"	"2018"	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	5618	Unreliable
+	"2018"	"2018"	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	78	430758	18.1
+	"2018"	"2018"	"South Carolina"	"45"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	13353	Unreliable
+	"2018"	"2018"	"South Carolina"	"45"	"Female"	"F"	"Black or African American"	"2054-5"	14	734758	Unreliable
+	"2018"	"2018"	"South Carolina"	"45"	"Female"	"F"	"White"	"2106-3"	151	1772835	8.5
+	"2018"	"2018"	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	78	645387	12.1
+	"2018"	"2018"	"South Carolina"	"45"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2822	Unreliable
+	"2018"	"2018"	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	559	1710620	32.7
+	"2018"	"2018"	"South Carolina"	"45"	"Male"	"M"	"More than one race"	"M"	0	47894	Unreliable
+	"2018"	"2018"	"South Dakota"	"46"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	16	40100	Unreliable
+	"2018"	"2018"	"South Dakota"	"46"	"Female"	"F"	"Asian"	"A"	0	7826	Unreliable
+	"2018"	"2018"	"South Dakota"	"46"	"Female"	"F"	"Black or African American"	"2054-5"	0	8774	Unreliable
+	"2018"	"2018"	"South Dakota"	"46"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	333	Unreliable
+	"2018"	"2018"	"South Dakota"	"46"	"Female"	"F"	"White"	"2106-3"	28	369140	7.6
+	"2018"	"2018"	"South Dakota"	"46"	"Female"	"F"	"More than one race"	"M"	0	10531	Unreliable
+	"2018"	"2018"	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	18	39312	Unreliable
+	"2018"	"2018"	"South Dakota"	"46"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	414	Unreliable
+	"2018"	"2018"	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	102	375593	27.2
+	"2018"	"2018"	"Tennessee"	"47"	"Female"	"F"	"Black or African American"	"2054-5"	17	608977	Unreliable
+	"2018"	"2018"	"Tennessee"	"47"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3109	Unreliable
+	"2018"	"2018"	"Tennessee"	"47"	"Female"	"F"	"White"	"2106-3"	256	2704886	9.5
+	"2018"	"2018"	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	77	546654	14.1
+	"2018"	"2018"	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	801	2610386	30.7
+	"2018"	"2018"	"Texas"	"48"	"Female"	"F"	"Asian"	"A"	20	763379	2.6
+	"2018"	"2018"	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	56	1894409	3.0
+	"2018"	"2018"	"Texas"	"48"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	21268	Unreliable
+	"2018"	"2018"	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	743	11327589	6.6
+	"2018"	"2018"	"Texas"	"48"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	11	149113	Unreliable
+	"2018"	"2018"	"Texas"	"48"	"Male"	"M"	"Asian"	"A"	104	722887	14.4
+	"2018"	"2018"	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	220	1779446	12.4
+	"2018"	"2018"	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	2792	11297278	24.7
+	"2018"	"2018"	"Texas"	"48"	"Male"	"M"	"More than one race"	"M"	15	290317	Unreliable
+	"2018"	"2018"	"Utah"	"49"	"Female"	"F"	"Black or African American"	"2054-5"	0	19666	Unreliable
+	"2018"	"2018"	"Utah"	"49"	"Female"	"F"	"White"	"2106-3"	138	1423720	9.7
+	"2018"	"2018"	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	486	1441914	33.7
+	"2018"	"2018"	"Vermont"	"50"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1187	Unreliable
+	"2018"	"2018"	"Vermont"	"50"	"Female"	"F"	"Black or African American"	"2054-5"	0	3784	Unreliable
+	"2018"	"2018"	"Vermont"	"50"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	103	Unreliable
+	"2018"	"2018"	"Vermont"	"50"	"Female"	"F"	"White"	"2106-3"	23	298854	7.7
+	"2018"	"2018"	"Vermont"	"50"	"Female"	"F"	"More than one race"	"M"	0	6253	Unreliable
+	"2018"	"2018"	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	1270	Unreliable
+	"2018"	"2018"	"Vermont"	"50"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	144	Unreliable
+	"2018"	"2018"	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	98	291132	33.7
+	"2018"	"2018"	"Virginia"	"51"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	22159	Unreliable
+	"2018"	"2018"	"Virginia"	"51"	"Female"	"F"	"Asian"	"A"	18	309933	Unreliable
+	"2018"	"2018"	"Virginia"	"51"	"Female"	"F"	"Black or African American"	"2054-5"	18	878465	Unreliable
+	"2018"	"2018"	"Virginia"	"51"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4896	Unreliable
+	"2018"	"2018"	"Virginia"	"51"	"Female"	"F"	"White"	"2106-3"	256	2979135	8.6
+	"2018"	"2018"	"Virginia"	"51"	"Male"	"M"	"Asian"	"A"	26	279113	9.3
+	"2018"	"2018"	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	118	812802	14.5
+	"2018"	"2018"	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	806	2939535	27.4
+	"2018"	"2018"	"Washington"	"53"	"Female"	"F"	"Asian"	"A"	23	371434	6.2
+	"2018"	"2018"	"Washington"	"53"	"Female"	"F"	"Black or African American"	"2054-5"	12	149291	Unreliable
+	"2018"	"2018"	"Washington"	"53"	"Female"	"F"	"White"	"2106-3"	262	2963532	8.8
+	"2018"	"2018"	"Washington"	"53"	"Female"	"F"	"More than one race"	"M"	15	180892	Unreliable
+	"2018"	"2018"	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	28	73242	38.2
+	"2018"	"2018"	"Washington"	"53"	"Male"	"M"	"Asian"	"A"	30	332021	9.0
+	"2018"	"2018"	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	29	173535	16.7
+	"2018"	"2018"	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	829	2981392	27.8
+	"2018"	"2018"	"Washington"	"53"	"Male"	"M"	"More than one race"	"M"	21	180043	11.7
+	"2018"	"2018"	"West Virginia"	"54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2103	Unreliable
+	"2018"	"2018"	"West Virginia"	"54"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	260	Unreliable
+	"2018"	"2018"	"West Virginia"	"54"	"Female"	"F"	"White"	"2106-3"	74	855197	8.7
+	"2018"	"2018"	"West Virginia"	"54"	"Female"	"F"	"More than one race"	"M"	0	16006	Unreliable
+	"2018"	"2018"	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2423	Unreliable
+	"2018"	"2018"	"West Virginia"	"54"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	268	Unreliable
+	"2018"	"2018"	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	309	832796	37.1
+	"2018"	"2018"	"West Virginia"	"54"	"Male"	"M"	"More than one race"	"M"	0	16210	Unreliable
+	"2018"	"2018"	"Wisconsin"	"55"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1534	Unreliable
+	"2018"	"2018"	"Wisconsin"	"55"	"Female"	"F"	"White"	"2106-3"	152	2540845	6.0
+	"2018"	"2018"	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	11	33935	Unreliable
+	"2018"	"2018"	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	30	191486	15.7
+	"2018"	"2018"	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	673	2522681	26.7
+	"2018"	"2018"	"Wyoming"	"56"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	7856	Unreliable
+	"2018"	"2018"	"Wyoming"	"56"	"Female"	"F"	"Asian"	"A"	0	3316	Unreliable
+	"2018"	"2018"	"Wyoming"	"56"	"Female"	"F"	"Black or African American"	"2054-5"	0	3065	Unreliable
+	"2018"	"2018"	"Wyoming"	"56"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	270	Unreliable
+	"2018"	"2018"	"Wyoming"	"56"	"Female"	"F"	"White"	"2106-3"	38	262444	14.5
+	"2018"	"2018"	"Wyoming"	"56"	"Male"	"M"	"Asian"	"A"	0	2897	Unreliable
+	"2018"	"2018"	"Wyoming"	"56"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	302	Unreliable
+	"2018"	"2018"	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	104	272499	38.2
+	"2019"	"2019"	"Alabama"	"01"	"Female"	"F"	"Black or African American"	"2054-5"	15	703474	Unreliable
+	"2019"	"2019"	"Alabama"	"01"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2451	Unreliable
+	"2019"	"2019"	"Alabama"	"01"	"Female"	"F"	"White"	"2106-3"	155	1726955	9.0
+	"2019"	"2019"	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	68	609817	11.2
+	"2019"	"2019"	"Alabama"	"01"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2659	Unreliable
+	"2019"	"2019"	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	553	1662441	33.3
+	"2019"	"2019"	"Alaska"	"02"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	15	56305	Unreliable
+	"2019"	"2019"	"Alaska"	"02"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5187	Unreliable
+	"2019"	"2019"	"Alaska"	"02"	"Female"	"F"	"White"	"2106-3"	20	224537	8.9
+	"2019"	"2019"	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	61	57648	105.8
+	"2019"	"2019"	"Alaska"	"02"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5311	Unreliable
+	"2019"	"2019"	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	92	252951	36.4
+	"2019"	"2019"	"Alaska"	"02"	"Male"	"M"	"More than one race"	"M"	11	27718	Unreliable
+	"2019"	"2019"	"Arizona"	"04"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	19	195734	Unreliable
+	"2019"	"2019"	"Arizona"	"04"	"Female"	"F"	"Black or African American"	"2054-5"	19	183014	Unreliable
+	"2019"	"2019"	"Arizona"	"04"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9430	Unreliable
+	"2019"	"2019"	"Arizona"	"04"	"Female"	"F"	"White"	"2106-3"	265	3023110	8.8
+	"2019"	"2019"	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	69	190169	36.3
+	"2019"	"2019"	"Arizona"	"04"	"Male"	"M"	"Asian"	"A"	11	126212	Unreliable
+	"2019"	"2019"	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	29	193983	14.9
+	"2019"	"2019"	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	986	2990332	33.0
+	"2019"	"2019"	"Arizona"	"04"	"Male"	"M"	"More than one race"	"M"	17	105862	Unreliable
+	"2019"	"2019"	"Arkansas"	"05"	"Female"	"F"	"White"	"2106-3"	100	1207645	8.3
+	"2019"	"2019"	"Arkansas"	"05"	"Female"	"F"	"More than one race"	"M"	0	33625	Unreliable
+	"2019"	"2019"	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	29	224895	12.9
+	"2019"	"2019"	"Arkansas"	"05"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6267	Unreliable
+	"2019"	"2019"	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	406	1177613	34.5
+	"2019"	"2019"	"California"	"06"	"Female"	"F"	"Asian"	"A"	110	3208061	3.4
+	"2019"	"2019"	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	50	1283822	3.9
+	"2019"	"2019"	"California"	"06"	"Female"	"F"	"White"	"2106-3"	761	14163391	5.4
+	"2019"	"2019"	"California"	"06"	"Female"	"F"	"More than one race"	"M"	27	791837	3.4
+	"2019"	"2019"	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	17	329953	Unreliable
+	"2019"	"2019"	"California"	"06"	"Male"	"M"	"Asian"	"A"	282	2902884	9.7
+	"2019"	"2019"	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	174	1268935	13.7
+	"2019"	"2019"	"California"	"06"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	11	99456	Unreliable
+	"2019"	"2019"	"California"	"06"	"Male"	"M"	"White"	"2106-3"	2961	14261348	20.8
+	"2019"	"2019"	"California"	"06"	"Male"	"M"	"More than one race"	"M"	98	782278	12.5
+	"2019"	"2019"	"Colorado"	"08"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5532	Unreliable
+	"2019"	"2019"	"Colorado"	"08"	"Female"	"F"	"White"	"2106-3"	289	2483497	11.6
+	"2019"	"2019"	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	13	47331	Unreliable
+	"2019"	"2019"	"Colorado"	"08"	"Male"	"M"	"Asian"	"A"	12	93808	Unreliable
+	"2019"	"2019"	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	35	141054	24.8
+	"2019"	"2019"	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	938	2523115	37.2
+	"2019"	"2019"	"Colorado"	"08"	"Male"	"M"	"More than one race"	"M"	12	90243	Unreliable
+	"2019"	"2019"	"Connecticut"	"09"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	10011	Unreliable
+	"2019"	"2019"	"Connecticut"	"09"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1822	Unreliable
+	"2019"	"2019"	"Connecticut"	"09"	"Female"	"F"	"White"	"2106-3"	94	1450582	6.5
+	"2019"	"2019"	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	10556	Unreliable
+	"2019"	"2019"	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	29	206935	14.0
+	"2019"	"2019"	"Connecticut"	"09"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2057	Unreliable
+	"2019"	"2019"	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	294	1390959	21.1
+	"2019"	"2019"	"Delaware"	"10"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	3275	Unreliable
+	"2019"	"2019"	"Delaware"	"10"	"Female"	"F"	"Asian"	"A"	0	20222	Unreliable
+	"2019"	"2019"	"Delaware"	"10"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	517	Unreliable
+	"2019"	"2019"	"Delaware"	"10"	"Female"	"F"	"White"	"2106-3"	26	346005	7.5
+	"2019"	"2019"	"Delaware"	"10"	"Female"	"F"	"More than one race"	"M"	0	13752	Unreliable
+	"2019"	"2019"	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	3289	Unreliable
+	"2019"	"2019"	"Delaware"	"10"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	542	Unreliable
+	"2019"	"2019"	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	73	328070	22.3
+	"2019"	"2019"	"Delaware"	"10"	"Male"	"M"	"More than one race"	"M"	0	12907	Unreliable
+	"2019"	"2019"	"District of Columbia"	"11"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1914	Unreliable
+	"2019"	"2019"	"District of Columbia"	"11"	"Female"	"F"	"Asian"	"A"	0	18172	Unreliable
+	"2019"	"2019"	"District of Columbia"	"11"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	462	Unreliable
+	"2019"	"2019"	"District of Columbia"	"11"	"Female"	"F"	"More than one race"	"M"	0	10936	Unreliable
+	"2019"	"2019"	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2216	Unreliable
+	"2019"	"2019"	"District of Columbia"	"11"	"Male"	"M"	"Asian"	"A"	0	13330	Unreliable
+	"2019"	"2019"	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	17	147351	Unreliable
+	"2019"	"2019"	"District of Columbia"	"11"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	461	Unreliable
+	"2019"	"2019"	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	13	162160	Unreliable
+	"2019"	"2019"	"District of Columbia"	"11"	"Male"	"M"	"More than one race"	"M"	0	9193	Unreliable
+	"2019"	"2019"	"Florida"	"12"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	52277	Unreliable
+	"2019"	"2019"	"Florida"	"12"	"Female"	"F"	"Asian"	"A"	14	341566	Unreliable
+	"2019"	"2019"	"Florida"	"12"	"Female"	"F"	"Black or African American"	"2054-5"	42	1883467	2.2
+	"2019"	"2019"	"Florida"	"12"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12157	Unreliable
+	"2019"	"2019"	"Florida"	"12"	"Female"	"F"	"White"	"2106-3"	742	8448054	8.8
+	"2019"	"2019"	"Florida"	"12"	"Male"	"M"	"Asian"	"A"	32	293261	10.9
+	"2019"	"2019"	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	192	1750048	11.0
+	"2019"	"2019"	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	2449	8149338	30.1
+	"2019"	"2019"	"Florida"	"12"	"Male"	"M"	"More than one race"	"M"	14	235252	Unreliable
+	"2019"	"2019"	"Georgia"	"13"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	26731	Unreliable
+	"2019"	"2019"	"Georgia"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	55	1841232	3.0
+	"2019"	"2019"	"Georgia"	"13"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5944	Unreliable
+	"2019"	"2019"	"Georgia"	"13"	"Female"	"F"	"White"	"2106-3"	278	3221992	8.6
+	"2019"	"2019"	"Georgia"	"13"	"Male"	"M"	"Asian"	"A"	30	224351	13.4
+	"2019"	"2019"	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	213	1616915	13.2
+	"2019"	"2019"	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	1001	3169513	31.6
+	"2019"	"2019"	"Hawaii"	"15"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2629	Unreliable
+	"2019"	"2019"	"Hawaii"	"15"	"Female"	"F"	"Asian"	"A"	12	285467	Unreliable
+	"2019"	"2019"	"Hawaii"	"15"	"Female"	"F"	"Black or African American"	"2054-5"	0	12286	Unreliable
+	"2019"	"2019"	"Hawaii"	"15"	"Female"	"F"	"White"	"2106-3"	18	167926	Unreliable
+	"2019"	"2019"	"Hawaii"	"15"	"Female"	"F"	"More than one race"	"M"	10	168876	Unreliable
+	"2019"	"2019"	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2941	Unreliable
+	"2019"	"2019"	"Hawaii"	"15"	"Male"	"M"	"Asian"	"A"	42	246723	17.0
+	"2019"	"2019"	"Hawaii"	"15"	"Male"	"M"	"Black or African American"	"2054-5"	0	18672	Unreliable
+	"2019"	"2019"	"Hawaii"	"15"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	21	72901	28.8
+	"2019"	"2019"	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	66	193391	34.1
+	"2019"	"2019"	"Hawaii"	"15"	"Male"	"M"	"More than one race"	"M"	53	173412	30.6
+	"2019"	"2019"	"Idaho"	"16"	"Female"	"F"	"Black or African American"	"2054-5"	0	7105	Unreliable
+	"2019"	"2019"	"Idaho"	"16"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1862	Unreliable
+	"2019"	"2019"	"Idaho"	"16"	"Female"	"F"	"White"	"2106-3"	73	828504	8.8
+	"2019"	"2019"	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	265	833861	31.8
+	"2019"	"2019"	"Illinois"	"17"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	36341	Unreliable
+	"2019"	"2019"	"Illinois"	"17"	"Female"	"F"	"Asian"	"A"	12	387870	Unreliable
+	"2019"	"2019"	"Illinois"	"17"	"Female"	"F"	"Black or African American"	"2054-5"	27	981449	2.8
+	"2019"	"2019"	"Illinois"	"17"	"Female"	"F"	"White"	"2106-3"	289	4904700	5.9
+	"2019"	"2019"	"Illinois"	"17"	"Male"	"M"	"Asian"	"A"	37	359820	10.3
+	"2019"	"2019"	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	94	871067	10.8
+	"2019"	"2019"	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	980	4822215	20.3
+	"2019"	"2019"	"Indiana"	"18"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	13894	Unreliable
+	"2019"	"2019"	"Indiana"	"18"	"Female"	"F"	"Asian"	"A"	0	87049	Unreliable
+	"2019"	"2019"	"Indiana"	"18"	"Female"	"F"	"Black or African American"	"2054-5"	10	346256	Unreliable
+	"2019"	"2019"	"Indiana"	"18"	"Female"	"F"	"White"	"2106-3"	168	2888987	5.8
+	"2019"	"2019"	"Indiana"	"18"	"Female"	"F"	"More than one race"	"M"	0	73477	Unreliable
+	"2019"	"2019"	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	49	323340	15.2
+	"2019"	"2019"	"Indiana"	"18"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2343	Unreliable
+	"2019"	"2019"	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	738	2820605	26.2
+	"2019"	"2019"	"Iowa"	"19"	"Female"	"F"	"White"	"2106-3"	89	1441059	6.2
+	"2019"	"2019"	"Iowa"	"19"	"Female"	"F"	"More than one race"	"M"	0	30765	Unreliable
+	"2019"	"2019"	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	14	68176	Unreliable
+	"2019"	"2019"	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	408	1418021	28.8
+	"2019"	"2019"	"Kansas"	"20"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1699	Unreliable
+	"2019"	"2019"	"Kansas"	"20"	"Female"	"F"	"White"	"2106-3"	100	1264291	7.9
+	"2019"	"2019"	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	20	92649	21.6
+	"2019"	"2019"	"Kansas"	"20"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1988	Unreliable
+	"2019"	"2019"	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	384	1249555	30.7
+	"2019"	"2019"	"Kansas"	"20"	"Male"	"M"	"More than one race"	"M"	14	44365	Unreliable
+	"2019"	"2019"	"Kentucky"	"21"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	6417	Unreliable
+	"2019"	"2019"	"Kentucky"	"21"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1962	Unreliable
+	"2019"	"2019"	"Kentucky"	"21"	"Female"	"F"	"White"	"2106-3"	153	1985853	7.7
+	"2019"	"2019"	"Kentucky"	"21"	"Female"	"F"	"More than one race"	"M"	0	45253	Unreliable
+	"2019"	"2019"	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	29	188350	15.4
+	"2019"	"2019"	"Kentucky"	"21"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2230	Unreliable
+	"2019"	"2019"	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	555	1924070	28.8
+	"2019"	"2019"	"Louisiana"	"22"	"Female"	"F"	"Black or African American"	"2054-5"	18	802339	Unreliable
+	"2019"	"2019"	"Louisiana"	"22"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1399	Unreliable
+	"2019"	"2019"	"Louisiana"	"22"	"Female"	"F"	"White"	"2106-3"	121	1475677	8.2
+	"2019"	"2019"	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	86	722394	11.9
+	"2019"	"2019"	"Louisiana"	"22"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1455	Unreliable
+	"2019"	"2019"	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	476	1443166	33.0
+	"2019"	"2019"	"Maine"	"23"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	4896	Unreliable
+	"2019"	"2019"	"Maine"	"23"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	223	Unreliable
+	"2019"	"2019"	"Maine"	"23"	"Female"	"F"	"White"	"2106-3"	48	648575	7.4
+	"2019"	"2019"	"Maine"	"23"	"Female"	"F"	"More than one race"	"M"	0	12369	Unreliable
+	"2019"	"2019"	"Maine"	"23"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	4871	Unreliable
+	"2019"	"2019"	"Maine"	"23"	"Male"	"M"	"Asian"	"A"	0	7721	Unreliable
+	"2019"	"2019"	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	222	620751	35.8
+	"2019"	"2019"	"Maryland"	"24"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	17867	Unreliable
+	"2019"	"2019"	"Maryland"	"24"	"Female"	"F"	"Black or African American"	"2054-5"	23	1001015	2.3
+	"2019"	"2019"	"Maryland"	"24"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3246	Unreliable
+	"2019"	"2019"	"Maryland"	"24"	"Female"	"F"	"White"	"2106-3"	100	1789746	5.6
+	"2019"	"2019"	"Maryland"	"24"	"Male"	"M"	"Asian"	"A"	22	192874	11.4
+	"2019"	"2019"	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	101	877630	11.5
+	"2019"	"2019"	"Maryland"	"24"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3459	Unreliable
+	"2019"	"2019"	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	410	1749698	23.4
+	"2019"	"2019"	"Massachusetts"	"25"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	16860	Unreliable
+	"2019"	"2019"	"Massachusetts"	"25"	"Female"	"F"	"Asian"	"A"	10	259747	Unreliable
+	"2019"	"2019"	"Massachusetts"	"25"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3773	Unreliable
+	"2019"	"2019"	"Massachusetts"	"25"	"Female"	"F"	"White"	"2106-3"	144	2856794	5.0
+	"2019"	"2019"	"Massachusetts"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	17450	Unreliable
+	"2019"	"2019"	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	33	301425	10.9
+	"2019"	"2019"	"Massachusetts"	"25"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3637	Unreliable
+	"2019"	"2019"	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	452	2697371	16.8
+	"2019"	"2019"	"Massachusetts"	"25"	"Male"	"M"	"More than one race"	"M"	0	87915	Unreliable
+	"2019"	"2019"	"Michigan"	"26"	"Female"	"F"	"Asian"	"A"	10	170386	Unreliable
+	"2019"	"2019"	"Michigan"	"26"	"Female"	"F"	"Black or African American"	"2054-5"	23	739614	3.1
+	"2019"	"2019"	"Michigan"	"26"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2062	Unreliable
+	"2019"	"2019"	"Michigan"	"26"	"Female"	"F"	"White"	"2106-3"	261	3991100	6.5
+	"2019"	"2019"	"Michigan"	"26"	"Male"	"M"	"Asian"	"A"	12	165998	Unreliable
+	"2019"	"2019"	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	104	668276	15.6
+	"2019"	"2019"	"Michigan"	"26"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2124	Unreliable
+	"2019"	"2019"	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	1034	3920467	26.4
+	"2019"	"2019"	"Michigan"	"26"	"Male"	"M"	"More than one race"	"M"	17	124861	Unreliable
+	"2019"	"2019"	"Minnesota"	"27"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	12	38568	Unreliable
+	"2019"	"2019"	"Minnesota"	"27"	"Female"	"F"	"Asian"	"A"	10	149509	Unreliable
+	"2019"	"2019"	"Minnesota"	"27"	"Female"	"F"	"Black or African American"	"2054-5"	10	193576	Unreliable
+	"2019"	"2019"	"Minnesota"	"27"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2076	Unreliable
+	"2019"	"2019"	"Minnesota"	"27"	"Female"	"F"	"White"	"2106-3"	160	2372726	6.7
+	"2019"	"2019"	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	18	38911	Unreliable
+	"2019"	"2019"	"Minnesota"	"27"	"Male"	"M"	"Asian"	"A"	26	142998	18.2
+	"2019"	"2019"	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	26	201980	12.9
+	"2019"	"2019"	"Minnesota"	"27"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2138	Unreliable
+	"2019"	"2019"	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	561	2351205	23.9
+	"2019"	"2019"	"Minnesota"	"27"	"Male"	"M"	"More than one race"	"M"	12	72579	Unreliable
+	"2019"	"2019"	"Mississippi"	"28"	"Female"	"F"	"Asian"	"A"	0	17438	Unreliable
+	"2019"	"2019"	"Mississippi"	"28"	"Female"	"F"	"Black or African American"	"2054-5"	10	596226	Unreliable
+	"2019"	"2019"	"Mississippi"	"28"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	801	Unreliable
+	"2019"	"2019"	"Mississippi"	"28"	"Female"	"F"	"White"	"2106-3"	71	889704	8.0
+	"2019"	"2019"	"Mississippi"	"28"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	9310	Unreliable
+	"2019"	"2019"	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	64	528333	12.1
+	"2019"	"2019"	"Mississippi"	"28"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1005	Unreliable
+	"2019"	"2019"	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	289	868377	33.3
+	"2019"	"2019"	"Missouri"	"29"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	17665	Unreliable
+	"2019"	"2019"	"Missouri"	"29"	"Female"	"F"	"Black or African American"	"2054-5"	15	380087	Unreliable
+	"2019"	"2019"	"Missouri"	"29"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4855	Unreliable
+	"2019"	"2019"	"Missouri"	"29"	"Female"	"F"	"White"	"2106-3"	191	2578739	7.4
+	"2019"	"2019"	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	44	345492	12.7
+	"2019"	"2019"	"Missouri"	"29"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5002	Unreliable
+	"2019"	"2019"	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	877	2507449	35.0
+	"2019"	"2019"	"Montana"	"30"	"Female"	"F"	"Black or African American"	"2054-5"	0	2581	Unreliable
+	"2019"	"2019"	"Montana"	"30"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	427	Unreliable
+	"2019"	"2019"	"Montana"	"30"	"Female"	"F"	"White"	"2106-3"	68	471016	14.4
+	"2019"	"2019"	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	19	35178	Unreliable
+	"2019"	"2019"	"Montana"	"30"	"Male"	"M"	"Asian"	"A"	0	4095	Unreliable
+	"2019"	"2019"	"Montana"	"30"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	493	Unreliable
+	"2019"	"2019"	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	185	479195	38.6
+	"2019"	"2019"	"Nebraska"	"31"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	14529	Unreliable
+	"2019"	"2019"	"Nebraska"	"31"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1098	Unreliable
+	"2019"	"2019"	"Nebraska"	"31"	"Female"	"F"	"White"	"2106-3"	57	853980	6.7
+	"2019"	"2019"	"Nebraska"	"31"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1251	Unreliable
+	"2019"	"2019"	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	228	850149	26.8
+	"2019"	"2019"	"Nevada"	"32"	"Female"	"F"	"White"	"2106-3"	115	1118349	10.3
+	"2019"	"2019"	"Nevada"	"32"	"Male"	"M"	"Asian"	"A"	17	121088	Unreliable
+	"2019"	"2019"	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	31	156266	19.8
+	"2019"	"2019"	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	447	1159203	38.6
+	"2019"	"2019"	"New Hampshire"	"33"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1927	Unreliable
+	"2019"	"2019"	"New Hampshire"	"33"	"Female"	"F"	"Asian"	"A"	0	20867	Unreliable
+	"2019"	"2019"	"New Hampshire"	"33"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	330	Unreliable
+	"2019"	"2019"	"New Hampshire"	"33"	"Female"	"F"	"White"	"2106-3"	47	640231	7.3
+	"2019"	"2019"	"New Hampshire"	"33"	"Female"	"F"	"More than one race"	"M"	0	11928	Unreliable
+	"2019"	"2019"	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2187	Unreliable
+	"2019"	"2019"	"New Hampshire"	"33"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	342	Unreliable
+	"2019"	"2019"	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	199	625866	31.8
+	"2019"	"2019"	"New Jersey"	"34"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	26864	Unreliable
+	"2019"	"2019"	"New Jersey"	"34"	"Female"	"F"	"Asian"	"A"	13	455066	Unreliable
+	"2019"	"2019"	"New Jersey"	"34"	"Female"	"F"	"Black or African American"	"2054-5"	18	701170	Unreliable
+	"2019"	"2019"	"New Jersey"	"34"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5163	Unreliable
+	"2019"	"2019"	"New Jersey"	"34"	"Female"	"F"	"White"	"2106-3"	160	3250089	4.9
+	"2019"	"2019"	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	28565	Unreliable
+	"2019"	"2019"	"New Jersey"	"34"	"Male"	"M"	"Asian"	"A"	36	431744	8.3
+	"2019"	"2019"	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	54	636287	8.5
+	"2019"	"2019"	"New Jersey"	"34"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5077	Unreliable
+	"2019"	"2019"	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	481	3138715	15.3
+	"2019"	"2019"	"New Mexico"	"35"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	13	118241	Unreliable
+	"2019"	"2019"	"New Mexico"	"35"	"Female"	"F"	"Asian"	"A"	0	20789	Unreliable
+	"2019"	"2019"	"New Mexico"	"35"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1662	Unreliable
+	"2019"	"2019"	"New Mexico"	"35"	"Female"	"F"	"White"	"2106-3"	97	866751	11.2
+	"2019"	"2019"	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	49	111553	43.9
+	"2019"	"2019"	"New Mexico"	"35"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1679	Unreliable
+	"2019"	"2019"	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	337	849905	39.7
+	"2019"	"2019"	"New York"	"36"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	94435	Unreliable
+	"2019"	"2019"	"New York"	"36"	"Female"	"F"	"Asian"	"A"	49	916950	5.3
+	"2019"	"2019"	"New York"	"36"	"Female"	"F"	"Black or African American"	"2054-5"	40	1820673	2.2
+	"2019"	"2019"	"New York"	"36"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	13672	Unreliable
+	"2019"	"2019"	"New York"	"36"	"Female"	"F"	"White"	"2106-3"	301	6894707	4.4
+	"2019"	"2019"	"New York"	"36"	"Male"	"M"	"Asian"	"A"	72	836249	8.6
+	"2019"	"2019"	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	117	1600450	7.3
+	"2019"	"2019"	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	1137	6652069	17.1
+	"2019"	"2019"	"North Carolina"	"37"	"Female"	"F"	"Black or African American"	"2054-5"	27	1239449	2.2
+	"2019"	"2019"	"North Carolina"	"37"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6386	Unreliable
+	"2019"	"2019"	"North Carolina"	"37"	"Female"	"F"	"White"	"2106-3"	274	3760766	7.3
+	"2019"	"2019"	"North Carolina"	"37"	"Male"	"M"	"Asian"	"A"	16	162251	Unreliable
+	"2019"	"2019"	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	127	1091114	11.6
+	"2019"	"2019"	"North Carolina"	"37"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6744	Unreliable
+	"2019"	"2019"	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	905	3638721	24.9
+	"2019"	"2019"	"North Dakota"	"38"	"Female"	"F"	"Asian"	"A"	0	6495	Unreliable
+	"2019"	"2019"	"North Dakota"	"38"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	305	Unreliable
+	"2019"	"2019"	"North Dakota"	"38"	"Female"	"F"	"White"	"2106-3"	18	323977	Unreliable
+	"2019"	"2019"	"North Dakota"	"38"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	310	Unreliable
+	"2019"	"2019"	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	105	338578	31.0
+	"2019"	"2019"	"Ohio"	"39"	"Female"	"F"	"Black or African American"	"2054-5"	24	794361	3.0
+	"2019"	"2019"	"Ohio"	"39"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3420	Unreliable
+	"2019"	"2019"	"Ohio"	"39"	"Female"	"F"	"White"	"2106-3"	325	4853217	6.7
+	"2019"	"2019"	"Ohio"	"39"	"Male"	"M"	"Asian"	"A"	19	141089	Unreliable
+	"2019"	"2019"	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	126	731209	17.2
+	"2019"	"2019"	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	1308	4699519	27.8
+	"2019"	"2019"	"Ohio"	"39"	"Male"	"M"	"More than one race"	"M"	10	137767	Unreliable
+	"2019"	"2019"	"Oklahoma"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	17	187694	Unreliable
+	"2019"	"2019"	"Oklahoma"	"40"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4069	Unreliable
+	"2019"	"2019"	"Oklahoma"	"40"	"Female"	"F"	"White"	"2106-3"	133	1475700	9.0
+	"2019"	"2019"	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	50	183410	27.3
+	"2019"	"2019"	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	38	154655	24.6
+	"2019"	"2019"	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	537	1451654	37.0
+	"2019"	"2019"	"Oklahoma"	"40"	"Male"	"M"	"More than one race"	"M"	24	121635	19.7
+	"2019"	"2019"	"Oregon"	"41"	"Female"	"F"	"White"	"2106-3"	202	1842750	11.0
+	"2019"	"2019"	"Oregon"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	11	39438	Unreliable
+	"2019"	"2019"	"Oregon"	"41"	"Male"	"M"	"Asian"	"A"	13	95084	Unreliable
+	"2019"	"2019"	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	638	1812386	35.2
+	"2019"	"2019"	"Oregon"	"41"	"Male"	"M"	"More than one race"	"M"	18	83478	Unreliable
+	"2019"	"2019"	"Pennsylvania"	"42"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	24987	Unreliable
+	"2019"	"2019"	"Pennsylvania"	"42"	"Female"	"F"	"Black or African American"	"2054-5"	32	795984	4.0
+	"2019"	"2019"	"Pennsylvania"	"42"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5117	Unreliable
+	"2019"	"2019"	"Pennsylvania"	"42"	"Female"	"F"	"White"	"2106-3"	362	5314026	6.8
+	"2019"	"2019"	"Pennsylvania"	"42"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	25700	Unreliable
+	"2019"	"2019"	"Pennsylvania"	"42"	"Male"	"M"	"Asian"	"A"	28	232848	12.0
+	"2019"	"2019"	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	102	744108	13.7
+	"2019"	"2019"	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	1371	5133036	26.7
+	"2019"	"2019"	"Rhode Island"	"44"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	5756	Unreliable
+	"2019"	"2019"	"Rhode Island"	"44"	"Female"	"F"	"Asian"	"A"	0	20582	Unreliable
+	"2019"	"2019"	"Rhode Island"	"44"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1055	Unreliable
+	"2019"	"2019"	"Rhode Island"	"44"	"Female"	"F"	"White"	"2106-3"	33	455414	7.2
+	"2019"	"2019"	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	5697	Unreliable
+	"2019"	"2019"	"Rhode Island"	"44"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1070	Unreliable
+	"2019"	"2019"	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	89	430104	20.7
+	"2019"	"2019"	"Rhode Island"	"44"	"Male"	"M"	"More than one race"	"M"	0	15169	Unreliable
+	"2019"	"2019"	"South Carolina"	"45"	"Female"	"F"	"Black or African American"	"2054-5"	12	739753	Unreliable
+	"2019"	"2019"	"South Carolina"	"45"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2364	Unreliable
+	"2019"	"2019"	"South Carolina"	"45"	"Female"	"F"	"White"	"2106-3"	154	1798450	8.6
+	"2019"	"2019"	"South Carolina"	"45"	"Female"	"F"	"More than one race"	"M"	0	51585	Unreliable
+	"2019"	"2019"	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	101	648264	15.6
+	"2019"	"2019"	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	571	1733598	32.9
+	"2019"	"2019"	"South Dakota"	"46"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	11	40338	Unreliable
+	"2019"	"2019"	"South Dakota"	"46"	"Female"	"F"	"Asian"	"A"	0	7119	Unreliable
+	"2019"	"2019"	"South Dakota"	"46"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	355	Unreliable
+	"2019"	"2019"	"South Dakota"	"46"	"Female"	"F"	"White"	"2106-3"	18	370901	Unreliable
+	"2019"	"2019"	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	18	39666	Unreliable
+	"2019"	"2019"	"South Dakota"	"46"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	432	Unreliable
+	"2019"	"2019"	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	122	377169	32.3
+	"2019"	"2019"	"Tennessee"	"47"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	15522	Unreliable
+	"2019"	"2019"	"Tennessee"	"47"	"Female"	"F"	"Black or African American"	"2054-5"	24	614245	3.9
+	"2019"	"2019"	"Tennessee"	"47"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3150	Unreliable
+	"2019"	"2019"	"Tennessee"	"47"	"Female"	"F"	"White"	"2106-3"	250	2723907	9.2
+	"2019"	"2019"	"Tennessee"	"47"	"Male"	"M"	"Asian"	"A"	14	63592	Unreliable
+	"2019"	"2019"	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	76	550216	13.8
+	"2019"	"2019"	"Tennessee"	"47"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3428	Unreliable
+	"2019"	"2019"	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	846	2630498	32.2
+	"2019"	"2019"	"Texas"	"48"	"Female"	"F"	"Asian"	"A"	31	776139	4.0
+	"2019"	"2019"	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	50	1929490	2.6
+	"2019"	"2019"	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	766	11419748	6.7
+	"2019"	"2019"	"Texas"	"48"	"Male"	"M"	"Asian"	"A"	66	734331	9.0
+	"2019"	"2019"	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	231	1809731	12.8
+	"2019"	"2019"	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	2743	11386382	24.1
+	"2019"	"2019"	"Texas"	"48"	"Male"	"M"	"More than one race"	"M"	12	299519	Unreliable
+	"2019"	"2019"	"Utah"	"49"	"Female"	"F"	"White"	"2106-3"	128	1442385	8.9
+	"2019"	"2019"	"Utah"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	11	25100	Unreliable
+	"2019"	"2019"	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	478	1461747	32.7
+	"2019"	"2019"	"Vermont"	"50"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1191	Unreliable
+	"2019"	"2019"	"Vermont"	"50"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	111	Unreliable
+	"2019"	"2019"	"Vermont"	"50"	"Female"	"F"	"White"	"2106-3"	23	297698	7.7
+	"2019"	"2019"	"Vermont"	"50"	"Female"	"F"	"More than one race"	"M"	0	6321	Unreliable
+	"2019"	"2019"	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	1250	Unreliable
+	"2019"	"2019"	"Vermont"	"50"	"Male"	"M"	"Asian"	"A"	0	5351	Unreliable
+	"2019"	"2019"	"Vermont"	"50"	"Male"	"M"	"Black or African American"	"2054-5"	0	5035	Unreliable
+	"2019"	"2019"	"Vermont"	"50"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	136	Unreliable
+	"2019"	"2019"	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	85	290404	29.3
+	"2019"	"2019"	"Vermont"	"50"	"Male"	"M"	"More than one race"	"M"	0	6140	Unreliable
+	"2019"	"2019"	"Virginia"	"51"	"Female"	"F"	"Asian"	"A"	10	310281	Unreliable
+	"2019"	"2019"	"Virginia"	"51"	"Female"	"F"	"Black or African American"	"2054-5"	24	881384	2.7
+	"2019"	"2019"	"Virginia"	"51"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4936	Unreliable
+	"2019"	"2019"	"Virginia"	"51"	"Female"	"F"	"White"	"2106-3"	220	2980335	7.4
+	"2019"	"2019"	"Virginia"	"51"	"Male"	"M"	"Asian"	"A"	23	279429	8.2
+	"2019"	"2019"	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	110	815527	13.5
+	"2019"	"2019"	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	738	2942313	25.1
+	"2019"	"2019"	"Virginia"	"51"	"Male"	"M"	"More than one race"	"M"	12	133487	Unreliable
+	"2019"	"2019"	"Washington"	"53"	"Female"	"F"	"Asian"	"A"	12	383920	Unreliable
+	"2019"	"2019"	"Washington"	"53"	"Female"	"F"	"Black or African American"	"2054-5"	10	152697	Unreliable
+	"2019"	"2019"	"Washington"	"53"	"Female"	"F"	"White"	"2106-3"	231	2978918	7.8
+	"2019"	"2019"	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	17	74471	Unreliable
+	"2019"	"2019"	"Washington"	"53"	"Male"	"M"	"Asian"	"A"	40	344066	11.6
+	"2019"	"2019"	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	26	179227	14.5
+	"2019"	"2019"	"Washington"	"53"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	13	30461	Unreliable
+	"2019"	"2019"	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	879	2998778	29.3
+	"2019"	"2019"	"Washington"	"53"	"Male"	"M"	"More than one race"	"M"	28	184980	15.1
+	"2019"	"2019"	"West Virginia"	"54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2141	Unreliable
+	"2019"	"2019"	"West Virginia"	"54"	"Female"	"F"	"Asian"	"A"	0	7799	Unreliable
+	"2019"	"2019"	"West Virginia"	"54"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	269	Unreliable
+	"2019"	"2019"	"West Virginia"	"54"	"Female"	"F"	"White"	"2106-3"	73	848475	8.6
+	"2019"	"2019"	"West Virginia"	"54"	"Female"	"F"	"More than one race"	"M"	0	16155	Unreliable
+	"2019"	"2019"	"West Virginia"	"54"	"Male"	"M"	"Asian"	"A"	0	6904	Unreliable
+	"2019"	"2019"	"West Virginia"	"54"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	261	Unreliable
+	"2019"	"2019"	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	251	826647	30.4
+	"2019"	"2019"	"Wisconsin"	"55"	"Female"	"F"	"Black or African American"	"2054-5"	10	198239	Unreliable
+	"2019"	"2019"	"Wisconsin"	"55"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1616	Unreliable
+	"2019"	"2019"	"Wisconsin"	"55"	"Female"	"F"	"White"	"2106-3"	160	2542676	6.3
+	"2019"	"2019"	"Wisconsin"	"55"	"Female"	"F"	"More than one race"	"M"	0	58573	Unreliable
+	"2019"	"2019"	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	22	192304	11.4
+	"2019"	"2019"	"Wisconsin"	"55"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1803	Unreliable
+	"2019"	"2019"	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	632	2525105	25.0
+	"2019"	"2019"	"Wyoming"	"56"	"Female"	"F"	"Asian"	"A"	0	3606	Unreliable
+	"2019"	"2019"	"Wyoming"	"56"	"Female"	"F"	"Black or African American"	"2054-5"	0	3059	Unreliable
+	"2019"	"2019"	"Wyoming"	"56"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	275	Unreliable
+	"2019"	"2019"	"Wyoming"	"56"	"Female"	"F"	"White"	"2106-3"	22	262839	8.4
+	"2019"	"2019"	"Wyoming"	"56"	"Female"	"F"	"More than one race"	"M"	0	6438	Unreliable
+	"2019"	"2019"	"Wyoming"	"56"	"Male"	"M"	"Asian"	"A"	0	2965	Unreliable
+	"2019"	"2019"	"Wyoming"	"56"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	321	Unreliable
+	"2019"	"2019"	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	135	272532	49.5
+	"2020"	"2020"	"Alabama"	"01"	"Female"	"F"	"Black or African American"	"2054-5"	13	707418	Unreliable
+	"2020"	"2020"	"Alabama"	"01"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2550	Unreliable
+	"2020"	"2020"	"Alabama"	"01"	"Female"	"F"	"White"	"2106-3"	148	1731214	8.5
+	"2020"	"2020"	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	74	612333	12.1
+	"2020"	"2020"	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	549	1664839	33.0
+	"2020"	"2020"	"Alaska"	"02"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	15	56183	Unreliable
+	"2020"	"2020"	"Alaska"	"02"	"Female"	"F"	"Asian"	"A"	0	25514	Unreliable
+	"2020"	"2020"	"Alaska"	"02"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5672	Unreliable
+	"2020"	"2020"	"Alaska"	"02"	"Female"	"F"	"White"	"2106-3"	20	222552	9.0
+	"2020"	"2020"	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	51	57629	88.5
+	"2020"	"2020"	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	92	250933	36.7
+	"2020"	"2020"	"Alaska"	"02"	"Male"	"M"	"More than one race"	"M"	20	28910	69.2
+	"2020"	"2020"	"Arizona"	"04"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	20	198875	10.1
+	"2020"	"2020"	"Arizona"	"04"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9864	Unreliable
+	"2020"	"2020"	"Arizona"	"04"	"Female"	"F"	"White"	"2106-3"	261	3072080	8.5
+	"2020"	"2020"	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	66	192569	34.3
+	"2020"	"2020"	"Arizona"	"04"	"Male"	"M"	"Asian"	"A"	14	132887	Unreliable
+	"2020"	"2020"	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	42	202995	20.7
+	"2020"	"2020"	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	925	3033739	30.5
+	"2020"	"2020"	"Arizona"	"04"	"Male"	"M"	"More than one race"	"M"	26	112651	23.1
+	"2020"	"2020"	"Arkansas"	"05"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	15934	Unreliable
+	"2020"	"2020"	"Arkansas"	"05"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5979	Unreliable
+	"2020"	"2020"	"Arkansas"	"05"	"Female"	"F"	"White"	"2106-3"	92	1210109	7.6
+	"2020"	"2020"	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	48	225971	21.2
+	"2020"	"2020"	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	429	1178305	36.4
+	"2020"	"2020"	"California"	"06"	"Female"	"F"	"Asian"	"A"	120	3265079	3.7
+	"2020"	"2020"	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	62	1283247	4.8
+	"2020"	"2020"	"California"	"06"	"Female"	"F"	"White"	"2106-3"	706	13990001	5.0
+	"2020"	"2020"	"California"	"06"	"Female"	"F"	"More than one race"	"M"	42	821266	5.1
+	"2020"	"2020"	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	15	338493	Unreliable
+	"2020"	"2020"	"California"	"06"	"Male"	"M"	"Asian"	"A"	285	2968218	9.6
+	"2020"	"2020"	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	169	1272011	13.3
+	"2020"	"2020"	"California"	"06"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	17	101555	Unreliable
+	"2020"	"2020"	"California"	"06"	"Male"	"M"	"White"	"2106-3"	2718	14083010	19.3
+	"2020"	"2020"	"California"	"06"	"Male"	"M"	"More than one race"	"M"	83	814202	10.2
+	"2020"	"2020"	"Colorado"	"08"	"Female"	"F"	"Black or African American"	"2054-5"	11	125656	Unreliable
+	"2020"	"2020"	"Colorado"	"08"	"Female"	"F"	"White"	"2106-3"	250	2497531	10.0
+	"2020"	"2020"	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	12	49016	Unreliable
+	"2020"	"2020"	"Colorado"	"08"	"Male"	"M"	"Asian"	"A"	15	96024	Unreliable
+	"2020"	"2020"	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	33	143385	23.0
+	"2020"	"2020"	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	956	2536429	37.7
+	"2020"	"2020"	"Colorado"	"08"	"Male"	"M"	"More than one race"	"M"	18	94749	Unreliable
+	"2020"	"2020"	"Connecticut"	"09"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	10975	Unreliable
+	"2020"	"2020"	"Connecticut"	"09"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1932	Unreliable
+	"2020"	"2020"	"Connecticut"	"09"	"Female"	"F"	"White"	"2106-3"	76	1438380	5.3
+	"2020"	"2020"	"Connecticut"	"09"	"Female"	"F"	"More than one race"	"M"	0	46467	Unreliable
+	"2020"	"2020"	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	11828	Unreliable
+	"2020"	"2020"	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	22	212177	10.4
+	"2020"	"2020"	"Connecticut"	"09"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2174	Unreliable
+	"2020"	"2020"	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	257	1377265	18.7
+	"2020"	"2020"	"Delaware"	"10"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	3421	Unreliable
+	"2020"	"2020"	"Delaware"	"10"	"Female"	"F"	"Asian"	"A"	0	21169	Unreliable
+	"2020"	"2020"	"Delaware"	"10"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	553	Unreliable
+	"2020"	"2020"	"Delaware"	"10"	"Female"	"F"	"White"	"2106-3"	11	348341	Unreliable
+	"2020"	"2020"	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	3477	Unreliable
+	"2020"	"2020"	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	13	108794	Unreliable
+	"2020"	"2020"	"Delaware"	"10"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	583	Unreliable
+	"2020"	"2020"	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	93	329557	28.2
+	"2020"	"2020"	"District of Columbia"	"11"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1962	Unreliable
+	"2020"	"2020"	"District of Columbia"	"11"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	549	Unreliable
+	"2020"	"2020"	"District of Columbia"	"11"	"Female"	"F"	"More than one race"	"M"	0	11399	Unreliable
+	"2020"	"2020"	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2278	Unreliable
+	"2020"	"2020"	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	17	147011	Unreliable
+	"2020"	"2020"	"District of Columbia"	"11"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	540	Unreliable
+	"2020"	"2020"	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	12	164605	Unreliable
+	"2020"	"2020"	"District of Columbia"	"11"	"Male"	"M"	"More than one race"	"M"	0	9736	Unreliable
+	"2020"	"2020"	"Florida"	"12"	"Female"	"F"	"Asian"	"A"	17	351332	Unreliable
+	"2020"	"2020"	"Florida"	"12"	"Female"	"F"	"Black or African American"	"2054-5"	38	1912916	2.0
+	"2020"	"2020"	"Florida"	"12"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12876	Unreliable
+	"2020"	"2020"	"Florida"	"12"	"Female"	"F"	"White"	"2106-3"	655	8529056	7.7
+	"2020"	"2020"	"Florida"	"12"	"Female"	"F"	"More than one race"	"M"	10	252179	Unreliable
+	"2020"	"2020"	"Florida"	"12"	"Male"	"M"	"Asian"	"A"	28	302912	9.2
+	"2020"	"2020"	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	186	1780056	10.4
+	"2020"	"2020"	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	2196	8221103	26.7
+	"2020"	"2020"	"Florida"	"12"	"Male"	"M"	"More than one race"	"M"	21	243906	8.6
+	"2020"	"2020"	"Georgia"	"13"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	27413	Unreliable
+	"2020"	"2020"	"Georgia"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	52	1870401	2.8
+	"2020"	"2020"	"Georgia"	"13"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6959	Unreliable
+	"2020"	"2020"	"Georgia"	"13"	"Female"	"F"	"White"	"2106-3"	229	3228123	7.1
+	"2020"	"2020"	"Georgia"	"13"	"Male"	"M"	"Asian"	"A"	30	233554	12.8
+	"2020"	"2020"	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	240	1639840	14.6
+	"2020"	"2020"	"Georgia"	"13"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7524	Unreliable
+	"2020"	"2020"	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	934	3171831	29.4
+	"2020"	"2020"	"Hawaii"	"15"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2579	Unreliable
+	"2020"	"2020"	"Hawaii"	"15"	"Female"	"F"	"Asian"	"A"	19	279851	Unreliable
+	"2020"	"2020"	"Hawaii"	"15"	"Female"	"F"	"White"	"2106-3"	16	165000	Unreliable
+	"2020"	"2020"	"Hawaii"	"15"	"Female"	"F"	"More than one race"	"M"	17	170650	Unreliable
+	"2020"	"2020"	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2895	Unreliable
+	"2020"	"2020"	"Hawaii"	"15"	"Male"	"M"	"Asian"	"A"	20	242240	8.3
+	"2020"	"2020"	"Hawaii"	"15"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	11	74958	Unreliable
+	"2020"	"2020"	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	54	190055	28.4
+	"2020"	"2020"	"Hawaii"	"15"	"Male"	"M"	"More than one race"	"M"	45	175791	25.6
+	"2020"	"2020"	"Idaho"	"16"	"Female"	"F"	"Black or African American"	"2054-5"	0	7260	Unreliable
+	"2020"	"2020"	"Idaho"	"16"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1929	Unreliable
+	"2020"	"2020"	"Idaho"	"16"	"Female"	"F"	"White"	"2106-3"	78	845931	9.2
+	"2020"	"2020"	"Idaho"	"16"	"Female"	"F"	"More than one race"	"M"	0	23533	Unreliable
+	"2020"	"2020"	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	333	851368	39.1
+	"2020"	"2020"	"Illinois"	"17"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	37424	Unreliable
+	"2020"	"2020"	"Illinois"	"17"	"Female"	"F"	"Asian"	"A"	18	393408	Unreliable
+	"2020"	"2020"	"Illinois"	"17"	"Female"	"F"	"Black or African American"	"2054-5"	33	980947	3.4
+	"2020"	"2020"	"Illinois"	"17"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4116	Unreliable
+	"2020"	"2020"	"Illinois"	"17"	"Female"	"F"	"White"	"2106-3"	228	4851727	4.7
+	"2020"	"2020"	"Illinois"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	40050	Unreliable
+	"2020"	"2020"	"Illinois"	"17"	"Male"	"M"	"Asian"	"A"	33	366881	9.0
+	"2020"	"2020"	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	121	871528	13.9
+	"2020"	"2020"	"Illinois"	"17"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4397	Unreliable
+	"2020"	"2020"	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	917	4768770	19.2
+	"2020"	"2020"	"Illinois"	"17"	"Male"	"M"	"More than one race"	"M"	12	133680	Unreliable
+	"2020"	"2020"	"Indiana"	"18"	"Female"	"F"	"Black or African American"	"2054-5"	15	352317	Unreliable
+	"2020"	"2020"	"Indiana"	"18"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2341	Unreliable
+	"2020"	"2020"	"Indiana"	"18"	"Female"	"F"	"White"	"2106-3"	176	2888044	6.1
+	"2020"	"2020"	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	65	329184	19.7
+	"2020"	"2020"	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	751	2819775	26.6
+	"2020"	"2020"	"Iowa"	"19"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2654	Unreliable
+	"2020"	"2020"	"Iowa"	"19"	"Female"	"F"	"White"	"2106-3"	93	1439071	6.5
+	"2020"	"2020"	"Iowa"	"19"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2882	Unreliable
+	"2020"	"2020"	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	434	1416452	30.6
+	"2020"	"2020"	"Kansas"	"20"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1820	Unreliable
+	"2020"	"2020"	"Kansas"	"20"	"Female"	"F"	"White"	"2106-3"	100	1261822	7.9
+	"2020"	"2020"	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	21	93093	22.6
+	"2020"	"2020"	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	377	1246372	30.2
+	"2020"	"2020"	"Kansas"	"20"	"Male"	"M"	"More than one race"	"M"	13	46444	Unreliable
+	"2020"	"2020"	"Kentucky"	"21"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	6554	Unreliable
+	"2020"	"2020"	"Kentucky"	"21"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2190	Unreliable
+	"2020"	"2020"	"Kentucky"	"21"	"Female"	"F"	"White"	"2106-3"	114	1985388	5.7
+	"2020"	"2020"	"Kentucky"	"21"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	7104	Unreliable
+	"2020"	"2020"	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	34	190415	17.9
+	"2020"	"2020"	"Kentucky"	"21"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2480	Unreliable
+	"2020"	"2020"	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	636	1922200	33.1
+	"2020"	"2020"	"Louisiana"	"22"	"Female"	"F"	"Black or African American"	"2054-5"	17	804910	Unreliable
+	"2020"	"2020"	"Louisiana"	"22"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1478	Unreliable
+	"2020"	"2020"	"Louisiana"	"22"	"Female"	"F"	"White"	"2106-3"	105	1470056	7.1
+	"2020"	"2020"	"Louisiana"	"22"	"Female"	"F"	"More than one race"	"M"	0	41964	Unreliable
+	"2020"	"2020"	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	87	723990	12.0
+	"2020"	"2020"	"Louisiana"	"22"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1473	Unreliable
+	"2020"	"2020"	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	431	1436850	30.0
+	"2020"	"2020"	"Maine"	"23"	"Female"	"F"	"Black or African American"	"2054-5"	0	10683	Unreliable
+	"2020"	"2020"	"Maine"	"23"	"Female"	"F"	"White"	"2106-3"	38	650431	5.8
+	"2020"	"2020"	"Maine"	"23"	"Female"	"F"	"More than one race"	"M"	0	12539	Unreliable
+	"2020"	"2020"	"Maine"	"23"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	266	Unreliable
+	"2020"	"2020"	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	188	622690	30.2
+	"2020"	"2020"	"Maryland"	"24"	"Female"	"F"	"Black or African American"	"2054-5"	20	1009355	2.0
+	"2020"	"2020"	"Maryland"	"24"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3572	Unreliable
+	"2020"	"2020"	"Maryland"	"24"	"Female"	"F"	"White"	"2106-3"	82	1778580	4.6
+	"2020"	"2020"	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	19743	Unreliable
+	"2020"	"2020"	"Maryland"	"24"	"Male"	"M"	"Asian"	"A"	15	197413	Unreliable
+	"2020"	"2020"	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	102	885242	11.5
+	"2020"	"2020"	"Maryland"	"24"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3874	Unreliable
+	"2020"	"2020"	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	366	1736795	21.1
+	"2020"	"2020"	"Massachusetts"	"25"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	17556	Unreliable
+	"2020"	"2020"	"Massachusetts"	"25"	"Female"	"F"	"Asian"	"A"	11	266549	Unreliable
+	"2020"	"2020"	"Massachusetts"	"25"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3869	Unreliable
+	"2020"	"2020"	"Massachusetts"	"25"	"Female"	"F"	"White"	"2106-3"	134	2841115	4.7
+	"2020"	"2020"	"Massachusetts"	"25"	"Female"	"F"	"More than one race"	"M"	0	91210	Unreliable
+	"2020"	"2020"	"Massachusetts"	"25"	"Male"	"M"	"Asian"	"A"	14	245960	Unreliable
+	"2020"	"2020"	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	25	307963	8.1
+	"2020"	"2020"	"Massachusetts"	"25"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3715	Unreliable
+	"2020"	"2020"	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	442	2681715	16.5
+	"2020"	"2020"	"Massachusetts"	"25"	"Male"	"M"	"More than one race"	"M"	0	89583	Unreliable
+	"2020"	"2020"	"Michigan"	"26"	"Female"	"F"	"Black or African American"	"2054-5"	35	739308	4.7
+	"2020"	"2020"	"Michigan"	"26"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2146	Unreliable
+	"2020"	"2020"	"Michigan"	"26"	"Female"	"F"	"White"	"2106-3"	257	3975839	6.5
+	"2020"	"2020"	"Michigan"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	12	36612	Unreliable
+	"2020"	"2020"	"Michigan"	"26"	"Male"	"M"	"Asian"	"A"	12	166973	Unreliable
+	"2020"	"2020"	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	102	665887	15.3
+	"2020"	"2020"	"Michigan"	"26"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2242	Unreliable
+	"2020"	"2020"	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	1011	3905488	25.9
+	"2020"	"2020"	"Michigan"	"26"	"Male"	"M"	"More than one race"	"M"	16	130611	Unreliable
+	"2020"	"2020"	"Minnesota"	"27"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2266	Unreliable
+	"2020"	"2020"	"Minnesota"	"27"	"Female"	"F"	"White"	"2106-3"	132	2366949	5.6
+	"2020"	"2020"	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	18	38837	Unreliable
+	"2020"	"2020"	"Minnesota"	"27"	"Male"	"M"	"Asian"	"A"	17	147256	Unreliable
+	"2020"	"2020"	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	28	209093	13.4
+	"2020"	"2020"	"Minnesota"	"27"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2384	Unreliable
+	"2020"	"2020"	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	534	2344924	22.8
+	"2020"	"2020"	"Minnesota"	"27"	"Male"	"M"	"More than one race"	"M"	13	76100	Unreliable
+	"2020"	"2020"	"Mississippi"	"28"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	9296	Unreliable
+	"2020"	"2020"	"Mississippi"	"28"	"Female"	"F"	"Asian"	"A"	0	17529	Unreliable
+	"2020"	"2020"	"Mississippi"	"28"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	903	Unreliable
+	"2020"	"2020"	"Mississippi"	"28"	"Female"	"F"	"White"	"2106-3"	53	885918	6.0
+	"2020"	"2020"	"Mississippi"	"28"	"Female"	"F"	"More than one race"	"M"	0	20801	Unreliable
+	"2020"	"2020"	"Mississippi"	"28"	"Male"	"M"	"Asian"	"A"	0	15542	Unreliable
+	"2020"	"2020"	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	65	527389	12.3
+	"2020"	"2020"	"Mississippi"	"28"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1043	Unreliable
+	"2020"	"2020"	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	281	862474	32.6
+	"2020"	"2020"	"Missouri"	"29"	"Female"	"F"	"Black or African American"	"2054-5"	14	380821	Unreliable
+	"2020"	"2020"	"Missouri"	"29"	"Female"	"F"	"White"	"2106-3"	193	2581848	7.5
+	"2020"	"2020"	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	64	344474	18.6
+	"2020"	"2020"	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	831	2507717	33.1
+	"2020"	"2020"	"Montana"	"30"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	11	35930	Unreliable
+	"2020"	"2020"	"Montana"	"30"	"Female"	"F"	"Asian"	"A"	0	6345	Unreliable
+	"2020"	"2020"	"Montana"	"30"	"Female"	"F"	"Black or African American"	"2054-5"	0	2607	Unreliable
+	"2020"	"2020"	"Montana"	"30"	"Female"	"F"	"White"	"2106-3"	48	475631	10.1
+	"2020"	"2020"	"Montana"	"30"	"Female"	"F"	"More than one race"	"M"	0	15524	Unreliable
+	"2020"	"2020"	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	24	35148	68.3
+	"2020"	"2020"	"Montana"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	0	3920	Unreliable
+	"2020"	"2020"	"Montana"	"30"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	505	Unreliable
+	"2020"	"2020"	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	209	484147	43.2
+	"2020"	"2020"	"Nebraska"	"31"	"Female"	"F"	"Asian"	"A"	0	27315	Unreliable
+	"2020"	"2020"	"Nebraska"	"31"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1209	Unreliable
+	"2020"	"2020"	"Nebraska"	"31"	"Female"	"F"	"White"	"2106-3"	37	852980	4.3
+	"2020"	"2020"	"Nebraska"	"31"	"Male"	"M"	"Black or African American"	"2054-5"	12	52868	Unreliable
+	"2020"	"2020"	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	221	848836	26.0
+	"2020"	"2020"	"Nevada"	"32"	"Female"	"F"	"White"	"2106-3"	97	1128394	8.6
+	"2020"	"2020"	"Nevada"	"32"	"Male"	"M"	"Asian"	"A"	22	127219	17.3
+	"2020"	"2020"	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	33	162298	20.3
+	"2020"	"2020"	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	411	1168510	35.2
+	"2020"	"2020"	"Nevada"	"32"	"Male"	"M"	"More than one race"	"M"	13	74859	Unreliable
+	"2020"	"2020"	"New Hampshire"	"33"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1964	Unreliable
+	"2020"	"2020"	"New Hampshire"	"33"	"Female"	"F"	"Asian"	"A"	0	21794	Unreliable
+	"2020"	"2020"	"New Hampshire"	"33"	"Female"	"F"	"Black or African American"	"2054-5"	0	11215	Unreliable
+	"2020"	"2020"	"New Hampshire"	"33"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	359	Unreliable
+	"2020"	"2020"	"New Hampshire"	"33"	"Female"	"F"	"White"	"2106-3"	53	641832	8.3
+	"2020"	"2020"	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2257	Unreliable
+	"2020"	"2020"	"New Hampshire"	"33"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	374	Unreliable
+	"2020"	"2020"	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	175	627593	27.9
+	"2020"	"2020"	"New Jersey"	"34"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	29240	Unreliable
+	"2020"	"2020"	"New Jersey"	"34"	"Female"	"F"	"Asian"	"A"	11	465077	Unreliable
+	"2020"	"2020"	"New Jersey"	"34"	"Female"	"F"	"Black or African American"	"2054-5"	14	708427	Unreliable
+	"2020"	"2020"	"New Jersey"	"34"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5517	Unreliable
+	"2020"	"2020"	"New Jersey"	"34"	"Female"	"F"	"White"	"2106-3"	129	3225899	4.0
+	"2020"	"2020"	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	31070	Unreliable
+	"2020"	"2020"	"New Jersey"	"34"	"Male"	"M"	"Asian"	"A"	37	443209	8.3
+	"2020"	"2020"	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	45	644310	7.0
+	"2020"	"2020"	"New Jersey"	"34"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5441	Unreliable
+	"2020"	"2020"	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	444	3116792	14.2
+	"2020"	"2020"	"New Mexico"	"35"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	13	120145	Unreliable
+	"2020"	"2020"	"New Mexico"	"35"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1733	Unreliable
+	"2020"	"2020"	"New Mexico"	"35"	"Female"	"F"	"White"	"2106-3"	89	866589	10.3
+	"2020"	"2020"	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	60	113069	53.1
+	"2020"	"2020"	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	10	30975	Unreliable
+	"2020"	"2020"	"New Mexico"	"35"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1760	Unreliable
+	"2020"	"2020"	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	337	850131	39.6
+	"2020"	"2020"	"New York"	"36"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	97933	Unreliable
+	"2020"	"2020"	"New York"	"36"	"Female"	"F"	"Asian"	"A"	26	931828	2.8
+	"2020"	"2020"	"New York"	"36"	"Female"	"F"	"Black or African American"	"2054-5"	34	1812511	1.9
+	"2020"	"2020"	"New York"	"36"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	14088	Unreliable
+	"2020"	"2020"	"New York"	"36"	"Female"	"F"	"White"	"2106-3"	308	6820849	4.5
+	"2020"	"2020"	"New York"	"36"	"Male"	"M"	"Asian"	"A"	80	850759	9.4
+	"2020"	"2020"	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	137	1598133	8.6
+	"2020"	"2020"	"New York"	"36"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	13823	Unreliable
+	"2020"	"2020"	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	1075	6575131	16.3
+	"2020"	"2020"	"North Carolina"	"37"	"Female"	"F"	"Asian"	"A"	10	181247	Unreliable
+	"2020"	"2020"	"North Carolina"	"37"	"Female"	"F"	"Black or African American"	"2054-5"	23	1254357	1.8
+	"2020"	"2020"	"North Carolina"	"37"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7285	Unreliable
+	"2020"	"2020"	"North Carolina"	"37"	"Female"	"F"	"White"	"2106-3"	264	3788223	7.0
+	"2020"	"2020"	"North Carolina"	"37"	"Male"	"M"	"Asian"	"A"	20	172011	11.6
+	"2020"	"2020"	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	134	1103269	12.1
+	"2020"	"2020"	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	976	3661025	26.7
+	"2020"	"2020"	"North Dakota"	"38"	"Female"	"F"	"Asian"	"A"	0	6531	Unreliable
+	"2020"	"2020"	"North Dakota"	"38"	"Female"	"F"	"Black or African American"	"2054-5"	0	11523	Unreliable
+	"2020"	"2020"	"North Dakota"	"38"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	329	Unreliable
+	"2020"	"2020"	"North Dakota"	"38"	"Female"	"F"	"White"	"2106-3"	19	324642	Unreliable
+	"2020"	"2020"	"North Dakota"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	13	21209	Unreliable
+	"2020"	"2020"	"North Dakota"	"38"	"Male"	"M"	"Asian"	"A"	0	6559	Unreliable
+	"2020"	"2020"	"North Dakota"	"38"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	337	Unreliable
+	"2020"	"2020"	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	93	339257	27.4
+	"2020"	"2020"	"Ohio"	"39"	"Female"	"F"	"Black or African American"	"2054-5"	30	799739	3.8
+	"2020"	"2020"	"Ohio"	"39"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3714	Unreliable
+	"2020"	"2020"	"Ohio"	"39"	"Female"	"F"	"White"	"2106-3"	277	4835737	5.7
+	"2020"	"2020"	"Ohio"	"39"	"Male"	"M"	"Asian"	"A"	13	147650	Unreliable
+	"2020"	"2020"	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	140	736256	19.0
+	"2020"	"2020"	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	1186	4682216	25.3
+	"2020"	"2020"	"Oklahoma"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	20	193317	10.3
+	"2020"	"2020"	"Oklahoma"	"40"	"Female"	"F"	"White"	"2106-3"	144	1476246	9.8
+	"2020"	"2020"	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	68	188837	36.0
+	"2020"	"2020"	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	40	155928	25.7
+	"2020"	"2020"	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	546	1449548	37.7
+	"2020"	"2020"	"Oklahoma"	"40"	"Male"	"M"	"More than one race"	"M"	29	126387	22.9
+	"2020"	"2020"	"Oregon"	"41"	"Female"	"F"	"Black or African American"	"2054-5"	0	43544	Unreliable
+	"2020"	"2020"	"Oregon"	"41"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9826	Unreliable
+	"2020"	"2020"	"Oregon"	"41"	"Female"	"F"	"White"	"2106-3"	158	1847670	8.6
+	"2020"	"2020"	"Oregon"	"41"	"Male"	"M"	"Asian"	"A"	12	96964	Unreliable
+	"2020"	"2020"	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	629	1816682	34.6
+	"2020"	"2020"	"Oregon"	"41"	"Male"	"M"	"More than one race"	"M"	16	86988	Unreliable
+	"2020"	"2020"	"Pennsylvania"	"42"	"Female"	"F"	"Asian"	"A"	10	254732	Unreliable
+	"2020"	"2020"	"Pennsylvania"	"42"	"Female"	"F"	"Black or African American"	"2054-5"	28	801735	3.5
+	"2020"	"2020"	"Pennsylvania"	"42"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5673	Unreliable
+	"2020"	"2020"	"Pennsylvania"	"42"	"Female"	"F"	"White"	"2106-3"	297	5283815	5.6
+	"2020"	"2020"	"Pennsylvania"	"42"	"Male"	"M"	"Asian"	"A"	22	239811	9.2
+	"2020"	"2020"	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	107	750178	14.3
+	"2020"	"2020"	"Pennsylvania"	"42"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5509	Unreliable
+	"2020"	"2020"	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	1239	5104751	24.3
+	"2020"	"2020"	"Pennsylvania"	"42"	"Male"	"M"	"More than one race"	"M"	10	139694	Unreliable
+	"2020"	"2020"	"Rhode Island"	"44"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	6034	Unreliable
+	"2020"	"2020"	"Rhode Island"	"44"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1107	Unreliable
+	"2020"	"2020"	"Rhode Island"	"44"	"Female"	"F"	"White"	"2106-3"	13	453021	Unreliable
+	"2020"	"2020"	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	5995	Unreliable
+	"2020"	"2020"	"Rhode Island"	"44"	"Male"	"M"	"Asian"	"A"	0	18740	Unreliable
+	"2020"	"2020"	"Rhode Island"	"44"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1111	Unreliable
+	"2020"	"2020"	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	71	427530	16.6
+	"2020"	"2020"	"South Carolina"	"45"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	14087	Unreliable
+	"2020"	"2020"	"South Carolina"	"45"	"Female"	"F"	"Black or African American"	"2054-5"	13	747159	Unreliable
+	"2020"	"2020"	"South Carolina"	"45"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2491	Unreliable
+	"2020"	"2020"	"South Carolina"	"45"	"Female"	"F"	"White"	"2106-3"	146	1824170	8.0
+	"2020"	"2020"	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	93	651680	14.3
+	"2020"	"2020"	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	601	1754719	34.3
+	"2020"	"2020"	"South Dakota"	"46"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	12	40452	Unreliable
+	"2020"	"2020"	"South Dakota"	"46"	"Female"	"F"	"Asian"	"A"	0	7910	Unreliable
+	"2020"	"2020"	"South Dakota"	"46"	"Female"	"F"	"Black or African American"	"2054-5"	0	8881	Unreliable
+	"2020"	"2020"	"South Dakota"	"46"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	369	Unreliable
+	"2020"	"2020"	"South Dakota"	"46"	"Female"	"F"	"White"	"2106-3"	24	373195	6.4
+	"2020"	"2020"	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	33	39600	83.3
+	"2020"	"2020"	"South Dakota"	"46"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	493	Unreliable
+	"2020"	"2020"	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	108	379487	28.5
+	"2020"	"2020"	"Tennessee"	"47"	"Female"	"F"	"Black or African American"	"2054-5"	19	619048	Unreliable
+	"2020"	"2020"	"Tennessee"	"47"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3457	Unreliable
+	"2020"	"2020"	"Tennessee"	"47"	"Female"	"F"	"White"	"2106-3"	219	2745760	8.0
+	"2020"	"2020"	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	75	553098	13.6
+	"2020"	"2020"	"Tennessee"	"47"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3708	Unreliable
+	"2020"	"2020"	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	884	2647701	33.4
+	"2020"	"2020"	"Texas"	"48"	"Female"	"F"	"Asian"	"A"	29	812523	3.6
+	"2020"	"2020"	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	67	1983954	3.4
+	"2020"	"2020"	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	696	11499060	6.1
+	"2020"	"2020"	"Texas"	"48"	"Male"	"M"	"Asian"	"A"	94	772307	12.2
+	"2020"	"2020"	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	253	1860299	13.6
+	"2020"	"2020"	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	2797	11458942	24.4
+	"2020"	"2020"	"Utah"	"49"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	17401	Unreliable
+	"2020"	"2020"	"Utah"	"49"	"Female"	"F"	"White"	"2106-3"	125	1458831	8.6
+	"2020"	"2020"	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	486	1479630	32.8
+	"2020"	"2020"	"Vermont"	"50"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1200	Unreliable
+	"2020"	"2020"	"Vermont"	"50"	"Female"	"F"	"Asian"	"A"	0	6928	Unreliable
+	"2020"	"2020"	"Vermont"	"50"	"Female"	"F"	"Black or African American"	"2054-5"	0	3777	Unreliable
+	"2020"	"2020"	"Vermont"	"50"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	107	Unreliable
+	"2020"	"2020"	"Vermont"	"50"	"Female"	"F"	"White"	"2106-3"	21	296960	7.1
+	"2020"	"2020"	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	1265	Unreliable
+	"2020"	"2020"	"Vermont"	"50"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	125	Unreliable
+	"2020"	"2020"	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	93	289536	32.1
+	"2020"	"2020"	"Vermont"	"50"	"Male"	"M"	"More than one race"	"M"	0	6343	Unreliable
+	"2020"	"2020"	"Virginia"	"51"	"Female"	"F"	"Asian"	"A"	14	320771	Unreliable
+	"2020"	"2020"	"Virginia"	"51"	"Female"	"F"	"Black or African American"	"2054-5"	34	889644	3.8
+	"2020"	"2020"	"Virginia"	"51"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5157	Unreliable
+	"2020"	"2020"	"Virginia"	"51"	"Female"	"F"	"White"	"2106-3"	208	2982964	7.0
+	"2020"	"2020"	"Virginia"	"51"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	25087	Unreliable
+	"2020"	"2020"	"Virginia"	"51"	"Male"	"M"	"Asian"	"A"	34	289602	11.7
+	"2020"	"2020"	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	121	823485	14.7
+	"2020"	"2020"	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	780	2945153	26.5
+	"2020"	"2020"	"Washington"	"53"	"Female"	"F"	"Asian"	"A"	23	397734	5.8
+	"2020"	"2020"	"Washington"	"53"	"Female"	"F"	"White"	"2106-3"	228	2985778	7.6
+	"2020"	"2020"	"Washington"	"53"	"Female"	"F"	"More than one race"	"M"	14	196019	Unreliable
+	"2020"	"2020"	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	23	75721	30.4
+	"2020"	"2020"	"Washington"	"53"	"Male"	"M"	"Asian"	"A"	35	359299	9.7
+	"2020"	"2020"	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	32	184599	17.3
+	"2020"	"2020"	"Washington"	"53"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	10	31103	Unreliable
+	"2020"	"2020"	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	812	3006550	27.0
+	"2020"	"2020"	"Washington"	"53"	"Male"	"M"	"More than one race"	"M"	34	196326	17.3
+	"2020"	"2020"	"West Virginia"	"54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2144	Unreliable
+	"2020"	"2020"	"West Virginia"	"54"	"Female"	"F"	"Asian"	"A"	0	8103	Unreliable
+	"2020"	"2020"	"West Virginia"	"54"	"Female"	"F"	"White"	"2106-3"	58	843417	6.9
+	"2020"	"2020"	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2465	Unreliable
+	"2020"	"2020"	"West Virginia"	"54"	"Male"	"M"	"Black or African American"	"2054-5"	11	35476	Unreliable
+	"2020"	"2020"	"West Virginia"	"54"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	262	Unreliable
+	"2020"	"2020"	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	278	821623	33.8
+	"2020"	"2020"	"West Virginia"	"54"	"Male"	"M"	"More than one race"	"M"	0	17127	Unreliable
+	"2020"	"2020"	"Wisconsin"	"55"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1661	Unreliable
+	"2020"	"2020"	"Wisconsin"	"55"	"Female"	"F"	"White"	"2106-3"	147	2537327	5.8
+	"2020"	"2020"	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	38	193916	19.6
+	"2020"	"2020"	"Wisconsin"	"55"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1868	Unreliable
+	"2020"	"2020"	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	659	2521257	26.1
+	"2020"	"2020"	"Wyoming"	"56"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	8004	Unreliable
+	"2020"	"2020"	"Wyoming"	"56"	"Female"	"F"	"Asian"	"A"	0	3363	Unreliable
+	"2020"	"2020"	"Wyoming"	"56"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	291	Unreliable
+	"2020"	"2020"	"Wyoming"	"56"	"Female"	"F"	"White"	"2106-3"	28	264342	10.6
+	"2020"	"2020"	"Wyoming"	"56"	"Female"	"F"	"More than one race"	"M"	0	6549	Unreliable
+	"2020"	"2020"	"Wyoming"	"56"	"Male"	"M"	"Asian"	"A"	0	3031	Unreliable
+	"2020"	"2020"	"Wyoming"	"56"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	326	Unreliable
+	"2020"	"2020"	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	148	274177	54.0
+	"2021"	"2021"	"Alabama"	"01"	"Female"	"F"	"Black or African American"	"2054-5"	18	722424	Unreliable
+	"2021"	"2021"	"Alabama"	"01"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2583	Unreliable
+	"2021"	"2021"	"Alabama"	"01"	"Female"	"F"	"White"	"2106-3"	124	1759537	7.0
+	"2021"	"2021"	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	103	630660	16.3
+	"2021"	"2021"	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	567	1713205	33.1
+	"2021"	"2021"	"Alaska"	"02"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	20	56495	35.4
+	"2021"	"2021"	"Alaska"	"02"	"Female"	"F"	"White"	"2106-3"	23	220875	10.4
+	"2021"	"2021"	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	55	58452	94.1
+	"2021"	"2021"	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	97	252064	38.5
+	"2021"	"2021"	"Alaska"	"02"	"Male"	"M"	"More than one race"	"M"	14	29393	Unreliable
+	"2021"	"2021"	"Arizona"	"04"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	29	194639	14.9
+	"2021"	"2021"	"Arizona"	"04"	"Female"	"F"	"Asian"	"A"	10	145636	Unreliable
+	"2021"	"2021"	"Arizona"	"04"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9837	Unreliable
+	"2021"	"2021"	"Arizona"	"04"	"Female"	"F"	"White"	"2106-3"	244	2986206	8.2
+	"2021"	"2021"	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	98	189699	51.7
+	"2021"	"2021"	"Arizona"	"04"	"Male"	"M"	"Asian"	"A"	18	132168	Unreliable
+	"2021"	"2021"	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	48	203946	23.5
+	"2021"	"2021"	"Arizona"	"04"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	11032	Unreliable
+	"2021"	"2021"	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	993	2982831	33.3
+	"2021"	"2021"	"Arizona"	"04"	"Male"	"M"	"More than one race"	"M"	40	114038	35.1
+	"2021"	"2021"	"Arkansas"	"05"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	16323	Unreliable
+	"2021"	"2021"	"Arkansas"	"05"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6110	Unreliable
+	"2021"	"2021"	"Arkansas"	"05"	"Female"	"F"	"White"	"2106-3"	116	1198534	9.7
+	"2021"	"2021"	"Arkansas"	"05"	"Female"	"F"	"More than one race"	"M"	0	35845	Unreliable
+	"2021"	"2021"	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	41	226803	18.1
+	"2021"	"2021"	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	442	1181062	37.4
+	"2021"	"2021"	"California"	"06"	"Female"	"F"	"Asian"	"A"	121	3256074	3.7
+	"2021"	"2021"	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	45	1271902	3.5
+	"2021"	"2021"	"California"	"06"	"Female"	"F"	"White"	"2106-3"	685	13828981	5.0
+	"2021"	"2021"	"California"	"06"	"Female"	"F"	"More than one race"	"M"	35	830036	4.2
+	"2021"	"2021"	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	25	343746	7.3
+	"2021"	"2021"	"California"	"06"	"Male"	"M"	"Asian"	"A"	286	2994294	9.6
+	"2021"	"2021"	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	192	1276212	15.0
+	"2021"	"2021"	"California"	"06"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	13	102600	Unreliable
+	"2021"	"2021"	"California"	"06"	"Male"	"M"	"White"	"2106-3"	2720	14073196	19.3
+	"2021"	"2021"	"California"	"06"	"Male"	"M"	"More than one race"	"M"	86	827142	10.4
+	"2021"	"2021"	"Colorado"	"08"	"Female"	"F"	"Asian"	"A"	12	111306	Unreliable
+	"2021"	"2021"	"Colorado"	"08"	"Female"	"F"	"Black or African American"	"2054-5"	13	126065	Unreliable
+	"2021"	"2021"	"Colorado"	"08"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6258	Unreliable
+	"2021"	"2021"	"Colorado"	"08"	"Female"	"F"	"White"	"2106-3"	273	2479321	11.0
+	"2021"	"2021"	"Colorado"	"08"	"Male"	"M"	"Asian"	"A"	14	97572	Unreliable
+	"2021"	"2021"	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	47	145703	32.3
+	"2021"	"2021"	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	1005	2547724	39.4
+	"2021"	"2021"	"Colorado"	"08"	"Male"	"M"	"More than one race"	"M"	15	97362	Unreliable
+	"2021"	"2021"	"Connecticut"	"09"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	11604	Unreliable
+	"2021"	"2021"	"Connecticut"	"09"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1969	Unreliable
+	"2021"	"2021"	"Connecticut"	"09"	"Female"	"F"	"White"	"2106-3"	101	1442769	7.0
+	"2021"	"2021"	"Connecticut"	"09"	"Female"	"F"	"More than one race"	"M"	0	48177	Unreliable
+	"2021"	"2021"	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	12580	Unreliable
+	"2021"	"2021"	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	24	219547	10.9
+	"2021"	"2021"	"Connecticut"	"09"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2215	Unreliable
+	"2021"	"2021"	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	262	1399759	18.7
+	"2021"	"2021"	"Connecticut"	"09"	"Male"	"M"	"More than one race"	"M"	0	46724	Unreliable
+	"2021"	"2021"	"Delaware"	"10"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	3539	Unreliable
+	"2021"	"2021"	"Delaware"	"10"	"Female"	"F"	"Asian"	"A"	0	21481	Unreliable
+	"2021"	"2021"	"Delaware"	"10"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	563	Unreliable
+	"2021"	"2021"	"Delaware"	"10"	"Female"	"F"	"White"	"2106-3"	23	350883	6.6
+	"2021"	"2021"	"Delaware"	"10"	"Female"	"F"	"More than one race"	"M"	0	15051	Unreliable
+	"2021"	"2021"	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	3585	Unreliable
+	"2021"	"2021"	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	19	112090	Unreliable
+	"2021"	"2021"	"Delaware"	"10"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	600	Unreliable
+	"2021"	"2021"	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	89	335716	26.5
+	"2021"	"2021"	"District of Columbia"	"11"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1908	Unreliable
+	"2021"	"2021"	"District of Columbia"	"11"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	523	Unreliable
+	"2021"	"2021"	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2159	Unreliable
+	"2021"	"2021"	"District of Columbia"	"11"	"Male"	"M"	"Asian"	"A"	0	12978	Unreliable
+	"2021"	"2021"	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	22	139783	15.7
+	"2021"	"2021"	"District of Columbia"	"11"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	540	Unreliable
+	"2021"	"2021"	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	24	153982	15.6
+	"2021"	"2021"	"Florida"	"12"	"Female"	"F"	"Asian"	"A"	18	354419	Unreliable
+	"2021"	"2021"	"Florida"	"12"	"Female"	"F"	"Black or African American"	"2054-5"	60	1912527	3.1
+	"2021"	"2021"	"Florida"	"12"	"Female"	"F"	"White"	"2106-3"	709	8474276	8.4
+	"2021"	"2021"	"Florida"	"12"	"Female"	"F"	"More than one race"	"M"	10	260081	Unreliable
+	"2021"	"2021"	"Florida"	"12"	"Male"	"M"	"Asian"	"A"	25	309413	8.1
+	"2021"	"2021"	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	205	1798367	11.4
+	"2021"	"2021"	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	2321	8275140	28.0
+	"2021"	"2021"	"Florida"	"12"	"Male"	"M"	"More than one race"	"M"	24	252826	9.5
+	"2021"	"2021"	"Georgia"	"13"	"Female"	"F"	"Asian"	"A"	15	253265	Unreliable
+	"2021"	"2021"	"Georgia"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	77	1890106	4.1
+	"2021"	"2021"	"Georgia"	"13"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7195	Unreliable
+	"2021"	"2021"	"Georgia"	"13"	"Female"	"F"	"White"	"2106-3"	253	3219170	7.9
+	"2021"	"2021"	"Georgia"	"13"	"Male"	"M"	"Asian"	"A"	38	240133	15.8
+	"2021"	"2021"	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	303	1668618	18.2
+	"2021"	"2021"	"Georgia"	"13"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7669	Unreliable
+	"2021"	"2021"	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	985	3199037	30.8
+	"2021"	"2021"	"Hawaii"	"15"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2674	Unreliable
+	"2021"	"2021"	"Hawaii"	"15"	"Female"	"F"	"Asian"	"A"	15	282115	Unreliable
+	"2021"	"2021"	"Hawaii"	"15"	"Female"	"F"	"Black or African American"	"2054-5"	0	12167	Unreliable
+	"2021"	"2021"	"Hawaii"	"15"	"Female"	"F"	"White"	"2106-3"	26	168875	15.4
+	"2021"	"2021"	"Hawaii"	"15"	"Female"	"F"	"More than one race"	"M"	15	176753	Unreliable
+	"2021"	"2021"	"Hawaii"	"15"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	3024	Unreliable
+	"2021"	"2021"	"Hawaii"	"15"	"Male"	"M"	"Asian"	"A"	24	247773	9.7
+	"2021"	"2021"	"Hawaii"	"15"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	12	77090	Unreliable
+	"2021"	"2021"	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	53	195241	27.1
+	"2021"	"2021"	"Hawaii"	"15"	"Male"	"M"	"More than one race"	"M"	53	183372	28.9
+	"2021"	"2021"	"Idaho"	"16"	"Female"	"F"	"Black or African American"	"2054-5"	0	7690	Unreliable
+	"2021"	"2021"	"Idaho"	"16"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2053	Unreliable
+	"2021"	"2021"	"Idaho"	"16"	"Female"	"F"	"White"	"2106-3"	60	874177	6.9
+	"2021"	"2021"	"Idaho"	"16"	"Female"	"F"	"More than one race"	"M"	0	25009	Unreliable
+	"2021"	"2021"	"Idaho"	"16"	"Male"	"M"	"Black or African American"	"2054-5"	0	10096	Unreliable
+	"2021"	"2021"	"Idaho"	"16"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2302	Unreliable
+	"2021"	"2021"	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	313	889922	35.2
+	"2021"	"2021"	"Illinois"	"17"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	38269	Unreliable
+	"2021"	"2021"	"Illinois"	"17"	"Female"	"F"	"Asian"	"A"	10	396867	Unreliable
+	"2021"	"2021"	"Illinois"	"17"	"Female"	"F"	"Black or African American"	"2054-5"	48	983791	4.9
+	"2021"	"2021"	"Illinois"	"17"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4186	Unreliable
+	"2021"	"2021"	"Illinois"	"17"	"Female"	"F"	"White"	"2106-3"	257	4844527	5.3
+	"2021"	"2021"	"Illinois"	"17"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	41248	Unreliable
+	"2021"	"2021"	"Illinois"	"17"	"Male"	"M"	"Asian"	"A"	31	374133	8.3
+	"2021"	"2021"	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	132	882816	15.0
+	"2021"	"2021"	"Illinois"	"17"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4522	Unreliable
+	"2021"	"2021"	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	973	4823853	20.2
+	"2021"	"2021"	"Indiana"	"18"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	14798	Unreliable
+	"2021"	"2021"	"Indiana"	"18"	"Female"	"F"	"Black or African American"	"2054-5"	11	357684	Unreliable
+	"2021"	"2021"	"Indiana"	"18"	"Female"	"F"	"White"	"2106-3"	185	2882258	6.4
+	"2021"	"2021"	"Indiana"	"18"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	15436	Unreliable
+	"2021"	"2021"	"Indiana"	"18"	"Male"	"M"	"Asian"	"A"	17	93125	Unreliable
+	"2021"	"2021"	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	59	337433	17.5
+	"2021"	"2021"	"Indiana"	"18"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2545	Unreliable
+	"2021"	"2021"	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	849	2850636	29.8
+	"2021"	"2021"	"Iowa"	"19"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3002	Unreliable
+	"2021"	"2021"	"Iowa"	"19"	"Female"	"F"	"White"	"2106-3"	90	1439304	6.3
+	"2021"	"2021"	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	16	74078	Unreliable
+	"2021"	"2021"	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	428	1436186	29.8
+	"2021"	"2021"	"Kansas"	"20"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1903	Unreliable
+	"2021"	"2021"	"Kansas"	"20"	"Female"	"F"	"White"	"2106-3"	80	1261270	6.3
+	"2021"	"2021"	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	25	94740	26.4
+	"2021"	"2021"	"Kansas"	"20"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2180	Unreliable
+	"2021"	"2021"	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	435	1261428	34.5
+	"2021"	"2021"	"Kentucky"	"21"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	6756	Unreliable
+	"2021"	"2021"	"Kentucky"	"21"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2250	Unreliable
+	"2021"	"2021"	"Kentucky"	"21"	"Female"	"F"	"White"	"2106-3"	113	1983242	5.7
+	"2021"	"2021"	"Kentucky"	"21"	"Female"	"F"	"More than one race"	"M"	0	49192	Unreliable
+	"2021"	"2021"	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	37	194776	19.0
+	"2021"	"2021"	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	655	1943158	33.7
+	"2021"	"2021"	"Louisiana"	"22"	"Female"	"F"	"Black or African American"	"2054-5"	22	799650	2.8
+	"2021"	"2021"	"Louisiana"	"22"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1488	Unreliable
+	"2021"	"2021"	"Louisiana"	"22"	"Female"	"F"	"White"	"2106-3"	114	1451732	7.9
+	"2021"	"2021"	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	96	725294	13.2
+	"2021"	"2021"	"Louisiana"	"22"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1520	Unreliable
+	"2021"	"2021"	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	453	1434832	31.6
+	"2021"	"2021"	"Maine"	"23"	"Female"	"F"	"Asian"	"A"	0	10451	Unreliable
+	"2021"	"2021"	"Maine"	"23"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	266	Unreliable
+	"2021"	"2021"	"Maine"	"23"	"Female"	"F"	"White"	"2106-3"	47	655850	7.2
+	"2021"	"2021"	"Maine"	"23"	"Female"	"F"	"More than one race"	"M"	0	13137	Unreliable
+	"2021"	"2021"	"Maine"	"23"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	290	Unreliable
+	"2021"	"2021"	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	223	636161	35.1
+	"2021"	"2021"	"Maine"	"23"	"Male"	"M"	"More than one race"	"M"	0	13034	Unreliable
+	"2021"	"2021"	"Maryland"	"24"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	19481	Unreliable
+	"2021"	"2021"	"Maryland"	"24"	"Female"	"F"	"Black or African American"	"2054-5"	25	1027569	2.4
+	"2021"	"2021"	"Maryland"	"24"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3697	Unreliable
+	"2021"	"2021"	"Maryland"	"24"	"Female"	"F"	"White"	"2106-3"	86	1790249	4.8
+	"2021"	"2021"	"Maryland"	"24"	"Female"	"F"	"More than one race"	"M"	0	98506	Unreliable
+	"2021"	"2021"	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	20732	Unreliable
+	"2021"	"2021"	"Maryland"	"24"	"Male"	"M"	"Asian"	"A"	14	204061	Unreliable
+	"2021"	"2021"	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	99	910096	10.9
+	"2021"	"2021"	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	398	1770634	22.5
+	"2021"	"2021"	"Massachusetts"	"25"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	18138	Unreliable
+	"2021"	"2021"	"Massachusetts"	"25"	"Female"	"F"	"Asian"	"A"	11	272220	Unreliable
+	"2021"	"2021"	"Massachusetts"	"25"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4005	Unreliable
+	"2021"	"2021"	"Massachusetts"	"25"	"Female"	"F"	"White"	"2106-3"	127	2850965	4.5
+	"2021"	"2021"	"Massachusetts"	"25"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	18864	Unreliable
+	"2021"	"2021"	"Massachusetts"	"25"	"Male"	"M"	"Asian"	"A"	16	252968	Unreliable
+	"2021"	"2021"	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	31	317769	9.8
+	"2021"	"2021"	"Massachusetts"	"25"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3807	Unreliable
+	"2021"	"2021"	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	420	2725844	15.4
+	"2021"	"2021"	"Massachusetts"	"25"	"Male"	"M"	"More than one race"	"M"	0	92840	Unreliable
+	"2021"	"2021"	"Michigan"	"26"	"Female"	"F"	"Black or African American"	"2054-5"	32	743060	4.3
+	"2021"	"2021"	"Michigan"	"26"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2207	Unreliable
+	"2021"	"2021"	"Michigan"	"26"	"Female"	"F"	"White"	"2106-3"	242	3976701	6.1
+	"2021"	"2021"	"Michigan"	"26"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	12	37578	Unreliable
+	"2021"	"2021"	"Michigan"	"26"	"Male"	"M"	"Asian"	"A"	16	170140	Unreliable
+	"2021"	"2021"	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	130	676596	19.2
+	"2021"	"2021"	"Michigan"	"26"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2286	Unreliable
+	"2021"	"2021"	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	1033	3958810	26.1
+	"2021"	"2021"	"Michigan"	"26"	"Male"	"M"	"More than one race"	"M"	23	135169	17.0
+	"2021"	"2021"	"Minnesota"	"27"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2394	Unreliable
+	"2021"	"2021"	"Minnesota"	"27"	"Female"	"F"	"White"	"2106-3"	137	2363735	5.8
+	"2021"	"2021"	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	25	39783	62.8
+	"2021"	"2021"	"Minnesota"	"27"	"Male"	"M"	"Asian"	"A"	30	150556	19.9
+	"2021"	"2021"	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	27	217099	12.4
+	"2021"	"2021"	"Minnesota"	"27"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2520	Unreliable
+	"2021"	"2021"	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	562	2371891	23.7
+	"2021"	"2021"	"Minnesota"	"27"	"Male"	"M"	"More than one race"	"M"	13	78564	Unreliable
+	"2021"	"2021"	"Mississippi"	"28"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	9406	Unreliable
+	"2021"	"2021"	"Mississippi"	"28"	"Female"	"F"	"Asian"	"A"	0	17617	Unreliable
+	"2021"	"2021"	"Mississippi"	"28"	"Female"	"F"	"Black or African American"	"2054-5"	10	592086	Unreliable
+	"2021"	"2021"	"Mississippi"	"28"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	914	Unreliable
+	"2021"	"2021"	"Mississippi"	"28"	"Female"	"F"	"White"	"2106-3"	80	873235	9.2
+	"2021"	"2021"	"Mississippi"	"28"	"Female"	"F"	"More than one race"	"M"	0	21371	Unreliable
+	"2021"	"2021"	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	74	527537	14.0
+	"2021"	"2021"	"Mississippi"	"28"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1043	Unreliable
+	"2021"	"2021"	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	302	860756	35.1
+	"2021"	"2021"	"Missouri"	"29"	"Female"	"F"	"Black or African American"	"2054-5"	12	380125	Unreliable
+	"2021"	"2021"	"Missouri"	"29"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5351	Unreliable
+	"2021"	"2021"	"Missouri"	"29"	"Female"	"F"	"White"	"2106-3"	182	2568360	7.1
+	"2021"	"2021"	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	89	346940	25.7
+	"2021"	"2021"	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	886	2527567	35.1
+	"2021"	"2021"	"Montana"	"30"	"Female"	"F"	"Black or African American"	"2054-5"	0	2777	Unreliable
+	"2021"	"2021"	"Montana"	"30"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	477	Unreliable
+	"2021"	"2021"	"Montana"	"30"	"Female"	"F"	"White"	"2106-3"	54	482552	11.2
+	"2021"	"2021"	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	30	36005	83.3
+	"2021"	"2021"	"Montana"	"30"	"Male"	"M"	"Asian"	"A"	0	4609	Unreliable
+	"2021"	"2021"	"Montana"	"30"	"Male"	"M"	"Black or African American"	"2054-5"	0	4117	Unreliable
+	"2021"	"2021"	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	252	497463	50.7
+	"2021"	"2021"	"Nebraska"	"31"	"Female"	"F"	"Black or African American"	"2054-5"	0	50296	Unreliable
+	"2021"	"2021"	"Nebraska"	"31"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1267	Unreliable
+	"2021"	"2021"	"Nebraska"	"31"	"Female"	"F"	"White"	"2106-3"	64	857581	7.5
+	"2021"	"2021"	"Nebraska"	"31"	"Female"	"F"	"More than one race"	"M"	0	24143	Unreliable
+	"2021"	"2021"	"Nebraska"	"31"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1370	Unreliable
+	"2021"	"2021"	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	205	864303	23.7
+	"2021"	"2021"	"Nevada"	"32"	"Female"	"F"	"Black or African American"	"2054-5"	15	168386	Unreliable
+	"2021"	"2021"	"Nevada"	"32"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	13690	Unreliable
+	"2021"	"2021"	"Nevada"	"32"	"Female"	"F"	"White"	"2106-3"	136	1117225	12.2
+	"2021"	"2021"	"Nevada"	"32"	"Male"	"M"	"Asian"	"A"	19	130035	Unreliable
+	"2021"	"2021"	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	34	166069	20.5
+	"2021"	"2021"	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	455	1170220	38.9
+	"2021"	"2021"	"Nevada"	"32"	"Male"	"M"	"More than one race"	"M"	11	77095	Unreliable
+	"2021"	"2021"	"New Hampshire"	"33"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2034	Unreliable
+	"2021"	"2021"	"New Hampshire"	"33"	"Female"	"F"	"Asian"	"A"	0	22259	Unreliable
+	"2021"	"2021"	"New Hampshire"	"33"	"Female"	"F"	"Black or African American"	"2054-5"	0	11764	Unreliable
+	"2021"	"2021"	"New Hampshire"	"33"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	365	Unreliable
+	"2021"	"2021"	"New Hampshire"	"33"	"Female"	"F"	"White"	"2106-3"	49	646917	7.6
+	"2021"	"2021"	"New Hampshire"	"33"	"Female"	"F"	"More than one race"	"M"	0	12521	Unreliable
+	"2021"	"2021"	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2307	Unreliable
+	"2021"	"2021"	"New Hampshire"	"33"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	382	Unreliable
+	"2021"	"2021"	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	173	641732	27.0
+	"2021"	"2021"	"New Hampshire"	"33"	"Male"	"M"	"More than one race"	"M"	0	13043	Unreliable
+	"2021"	"2021"	"New Jersey"	"34"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	31297	Unreliable
+	"2021"	"2021"	"New Jersey"	"34"	"Female"	"F"	"Asian"	"A"	12	487522	Unreliable
+	"2021"	"2021"	"New Jersey"	"34"	"Female"	"F"	"Black or African American"	"2054-5"	11	739129	Unreliable
+	"2021"	"2021"	"New Jersey"	"34"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5841	Unreliable
+	"2021"	"2021"	"New Jersey"	"34"	"Female"	"F"	"White"	"2106-3"	126	3330418	3.8
+	"2021"	"2021"	"New Jersey"	"34"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	33515	Unreliable
+	"2021"	"2021"	"New Jersey"	"34"	"Male"	"M"	"Asian"	"A"	29	469865	6.2
+	"2021"	"2021"	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	54	680672	7.9
+	"2021"	"2021"	"New Jersey"	"34"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5842	Unreliable
+	"2021"	"2021"	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	459	3263128	14.1
+	"2021"	"2021"	"New Mexico"	"35"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	10	121596	Unreliable
+	"2021"	"2021"	"New Mexico"	"35"	"Female"	"F"	"Black or African American"	"2054-5"	0	25800	Unreliable
+	"2021"	"2021"	"New Mexico"	"35"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1730	Unreliable
+	"2021"	"2021"	"New Mexico"	"35"	"Female"	"F"	"White"	"2106-3"	82	863671	9.5
+	"2021"	"2021"	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	67	115213	58.2
+	"2021"	"2021"	"New Mexico"	"35"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1798	Unreliable
+	"2021"	"2021"	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	357	856944	41.7
+	"2021"	"2021"	"New York"	"36"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	101593	Unreliable
+	"2021"	"2021"	"New York"	"36"	"Female"	"F"	"Asian"	"A"	44	959650	4.6
+	"2021"	"2021"	"New York"	"36"	"Female"	"F"	"Black or African American"	"2054-5"	28	1848057	1.5
+	"2021"	"2021"	"New York"	"36"	"Female"	"F"	"White"	"2106-3"	300	6936730	4.3
+	"2021"	"2021"	"New York"	"36"	"Male"	"M"	"Asian"	"A"	87	886018	9.8
+	"2021"	"2021"	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	134	1651174	8.1
+	"2021"	"2021"	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	1078	6774597	15.9
+	"2021"	"2021"	"New York"	"36"	"Male"	"M"	"More than one race"	"M"	13	266051	Unreliable
+	"2021"	"2021"	"North Carolina"	"37"	"Female"	"F"	"Black or African American"	"2054-5"	35	1244659	2.8
+	"2021"	"2021"	"North Carolina"	"37"	"Female"	"F"	"White"	"2106-3"	236	3737922	6.3
+	"2021"	"2021"	"North Carolina"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	12	83713	Unreliable
+	"2021"	"2021"	"North Carolina"	"37"	"Male"	"M"	"Asian"	"A"	17	175548	Unreliable
+	"2021"	"2021"	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	154	1105072	13.9
+	"2021"	"2021"	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	994	3654312	27.2
+	"2021"	"2021"	"North Dakota"	"38"	"Female"	"F"	"Black or African American"	"2054-5"	0	11869	Unreliable
+	"2021"	"2021"	"North Dakota"	"38"	"Female"	"F"	"White"	"2106-3"	22	326859	6.7
+	"2021"	"2021"	"North Dakota"	"38"	"Male"	"M"	"Asian"	"A"	0	6495	Unreliable
+	"2021"	"2021"	"North Dakota"	"38"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	364	Unreliable
+	"2021"	"2021"	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	108	344805	31.3
+	"2021"	"2021"	"Ohio"	"39"	"Female"	"F"	"Black or African American"	"2054-5"	28	807842	3.5
+	"2021"	"2021"	"Ohio"	"39"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3819	Unreliable
+	"2021"	"2021"	"Ohio"	"39"	"Female"	"F"	"White"	"2106-3"	295	4825706	6.1
+	"2021"	"2021"	"Ohio"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	18146	Unreliable
+	"2021"	"2021"	"Ohio"	"39"	"Male"	"M"	"Asian"	"A"	21	152278	13.8
+	"2021"	"2021"	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	145	752404	19.3
+	"2021"	"2021"	"Ohio"	"39"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4224	Unreliable
+	"2021"	"2021"	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	1283	4734636	27.1
+	"2021"	"2021"	"Oklahoma"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	18	194845	Unreliable
+	"2021"	"2021"	"Oklahoma"	"40"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4542	Unreliable
+	"2021"	"2021"	"Oklahoma"	"40"	"Female"	"F"	"White"	"2106-3"	137	1463599	9.4
+	"2021"	"2021"	"Oklahoma"	"40"	"Female"	"F"	"More than one race"	"M"	12	133014	Unreliable
+	"2021"	"2021"	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	83	191765	43.3
+	"2021"	"2021"	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	36	157892	22.8
+	"2021"	"2021"	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	555	1453761	38.2
+	"2021"	"2021"	"Oklahoma"	"40"	"Male"	"M"	"More than one race"	"M"	29	128878	22.5
+	"2021"	"2021"	"Oregon"	"41"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9958	Unreliable
+	"2021"	"2021"	"Oregon"	"41"	"Female"	"F"	"White"	"2106-3"	185	1834283	10.1
+	"2021"	"2021"	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	10	52446	Unreliable
+	"2021"	"2021"	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	648	1825313	35.5
+	"2021"	"2021"	"Oregon"	"41"	"Male"	"M"	"More than one race"	"M"	16	89319	Unreliable
+	"2021"	"2021"	"Pennsylvania"	"42"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	27436	Unreliable
+	"2021"	"2021"	"Pennsylvania"	"42"	"Female"	"F"	"Black or African American"	"2054-5"	32	814563	3.9
+	"2021"	"2021"	"Pennsylvania"	"42"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5796	Unreliable
+	"2021"	"2021"	"Pennsylvania"	"42"	"Female"	"F"	"White"	"2106-3"	321	5304359	6.1
+	"2021"	"2021"	"Pennsylvania"	"42"	"Male"	"M"	"Asian"	"A"	25	249759	10.0
+	"2021"	"2021"	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	129	771668	16.7
+	"2021"	"2021"	"Pennsylvania"	"42"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5680	Unreliable
+	"2021"	"2021"	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	1374	5198023	26.4
+	"2021"	"2021"	"Rhode Island"	"44"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1150	Unreliable
+	"2021"	"2021"	"Rhode Island"	"44"	"Female"	"F"	"White"	"2106-3"	26	465262	5.6
+	"2021"	"2021"	"Rhode Island"	"44"	"Female"	"F"	"More than one race"	"M"	0	16594	Unreliable
+	"2021"	"2021"	"Rhode Island"	"44"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1175	Unreliable
+	"2021"	"2021"	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	81	444980	18.2
+	"2021"	"2021"	"South Carolina"	"45"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	14366	Unreliable
+	"2021"	"2021"	"South Carolina"	"45"	"Female"	"F"	"Black or African American"	"2054-5"	13	735723	Unreliable
+	"2021"	"2021"	"South Carolina"	"45"	"Female"	"F"	"White"	"2106-3"	141	1805535	7.8
+	"2021"	"2021"	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	86	647704	13.3
+	"2021"	"2021"	"South Carolina"	"45"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2851	Unreliable
+	"2021"	"2021"	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	556	1756067	31.7
+	"2021"	"2021"	"South Dakota"	"46"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	17	40599	Unreliable
+	"2021"	"2021"	"South Dakota"	"46"	"Female"	"F"	"Black or African American"	"2054-5"	0	9139	Unreliable
+	"2021"	"2021"	"South Dakota"	"46"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	434	Unreliable
+	"2021"	"2021"	"South Dakota"	"46"	"Female"	"F"	"White"	"2106-3"	31	370894	8.4
+	"2021"	"2021"	"South Dakota"	"46"	"Female"	"F"	"More than one race"	"M"	0	11534	Unreliable
+	"2021"	"2021"	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	34	39892	85.2
+	"2021"	"2021"	"South Dakota"	"46"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	500	Unreliable
+	"2021"	"2021"	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	111	382648	29.0
+	"2021"	"2021"	"Tennessee"	"47"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	16602	Unreliable
+	"2021"	"2021"	"Tennessee"	"47"	"Female"	"F"	"Black or African American"	"2054-5"	23	622717	3.7
+	"2021"	"2021"	"Tennessee"	"47"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3573	Unreliable
+	"2021"	"2021"	"Tennessee"	"47"	"Female"	"F"	"White"	"2106-3"	215	2763089	7.8
+	"2021"	"2021"	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	93	561324	16.6
+	"2021"	"2021"	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	881	2694798	32.7
+	"2021"	"2021"	"Texas"	"48"	"Female"	"F"	"Asian"	"A"	25	824136	3.0
+	"2021"	"2021"	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	69	2002780	3.4
+	"2021"	"2021"	"Texas"	"48"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	23068	Unreliable
+	"2021"	"2021"	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	726	11466677	6.3
+	"2021"	"2021"	"Texas"	"48"	"Male"	"M"	"Asian"	"A"	78	792679	9.8
+	"2021"	"2021"	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	293	1892080	15.5
+	"2021"	"2021"	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	3009	11545573	26.1
+	"2021"	"2021"	"Texas"	"48"	"Male"	"M"	"More than one race"	"M"	19	321024	Unreliable
+	"2021"	"2021"	"Utah"	"49"	"Female"	"F"	"White"	"2106-3"	115	1488327	7.7
+	"2021"	"2021"	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	480	1524711	31.5
+	"2021"	"2021"	"Utah"	"49"	"Male"	"M"	"More than one race"	"M"	11	47806	Unreliable
+	"2021"	"2021"	"Vermont"	"50"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1233	Unreliable
+	"2021"	"2021"	"Vermont"	"50"	"Female"	"F"	"Black or African American"	"2054-5"	0	3969	Unreliable
+	"2021"	"2021"	"Vermont"	"50"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	113	Unreliable
+	"2021"	"2021"	"Vermont"	"50"	"Female"	"F"	"White"	"2106-3"	28	305606	9.2
+	"2021"	"2021"	"Vermont"	"50"	"Female"	"F"	"More than one race"	"M"	0	6694	Unreliable
+	"2021"	"2021"	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	1296	Unreliable
+	"2021"	"2021"	"Vermont"	"50"	"Male"	"M"	"Asian"	"A"	0	5857	Unreliable
+	"2021"	"2021"	"Vermont"	"50"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	132	Unreliable
+	"2021"	"2021"	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	113	301476	37.5
+	"2021"	"2021"	"Virginia"	"51"	"Female"	"F"	"Asian"	"A"	15	324585	Unreliable
+	"2021"	"2021"	"Virginia"	"51"	"Female"	"F"	"Black or African American"	"2054-5"	29	893529	3.2
+	"2021"	"2021"	"Virginia"	"51"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5307	Unreliable
+	"2021"	"2021"	"Virginia"	"51"	"Female"	"F"	"White"	"2106-3"	191	2972089	6.4
+	"2021"	"2021"	"Virginia"	"51"	"Male"	"M"	"Asian"	"A"	27	296411	9.1
+	"2021"	"2021"	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	122	835907	14.6
+	"2021"	"2021"	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	788	2970120	26.5
+	"2021"	"2021"	"Virginia"	"51"	"Male"	"M"	"More than one race"	"M"	17	143623	Unreliable
+	"2021"	"2021"	"Washington"	"53"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	15	75234	Unreliable
+	"2021"	"2021"	"Washington"	"53"	"Female"	"F"	"Asian"	"A"	20	405047	4.9
+	"2021"	"2021"	"Washington"	"53"	"Female"	"F"	"Black or African American"	"2054-5"	14	158576	Unreliable
+	"2021"	"2021"	"Washington"	"53"	"Female"	"F"	"White"	"2106-3"	210	2969514	7.1
+	"2021"	"2021"	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	16	77573	Unreliable
+	"2021"	"2021"	"Washington"	"53"	"Male"	"M"	"Asian"	"A"	41	370423	11.1
+	"2021"	"2021"	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	39	189594	20.6
+	"2021"	"2021"	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	820	3026411	27.1
+	"2021"	"2021"	"Washington"	"53"	"Male"	"M"	"More than one race"	"M"	47	202369	23.2
+	"2021"	"2021"	"West Virginia"	"54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2230	Unreliable
+	"2021"	"2021"	"West Virginia"	"54"	"Female"	"F"	"Asian"	"A"	0	8238	Unreliable
+	"2021"	"2021"	"West Virginia"	"54"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	261	Unreliable
+	"2021"	"2021"	"West Virginia"	"54"	"Female"	"F"	"White"	"2106-3"	67	835531	8.0
+	"2021"	"2021"	"West Virginia"	"54"	"Female"	"F"	"More than one race"	"M"	0	17577	Unreliable
+	"2021"	"2021"	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2492	Unreliable
+	"2021"	"2021"	"West Virginia"	"54"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	263	Unreliable
+	"2021"	"2021"	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	302	824841	36.6
+	"2021"	"2021"	"Wisconsin"	"55"	"Female"	"F"	"White"	"2106-3"	182	2544449	7.2
+	"2021"	"2021"	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	12	36150	Unreliable
+	"2021"	"2021"	"Wisconsin"	"55"	"Male"	"M"	"Asian"	"A"	21	91675	22.9
+	"2021"	"2021"	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	37	197798	18.7
+	"2021"	"2021"	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	635	2562326	24.8
+	"2021"	"2021"	"Wyoming"	"56"	"Female"	"F"	"Asian"	"A"	0	3322	Unreliable
+	"2021"	"2021"	"Wyoming"	"56"	"Female"	"F"	"Black or African American"	"2054-5"	0	2938	Unreliable
+	"2021"	"2021"	"Wyoming"	"56"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	272	Unreliable
+	"2021"	"2021"	"Wyoming"	"56"	"Female"	"F"	"White"	"2106-3"	34	261239	13.0
+	"2021"	"2021"	"Wyoming"	"56"	"Female"	"F"	"More than one race"	"M"	0	6761	Unreliable
+	"2021"	"2021"	"Wyoming"	"56"	"Male"	"M"	"Asian"	"A"	0	3007	Unreliable
+	"2021"	"2021"	"Wyoming"	"56"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	314	Unreliable
+	"2021"	"2021"	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	147	273430	53.8
+	"2022 "	"2022"	"Alabama"	"01"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	17903	Unreliable
+	"2022 "	"2022"	"Alabama"	"01"	"Female"	"F"	"Black or African American"	"2054-5"	13	724112	Unreliable
+	"2022 "	"2022"	"Alabama"	"01"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2623	Unreliable
+	"2022 "	"2022"	"Alabama"	"01"	"Female"	"F"	"White"	"2106-3"	146	1769490	8.3
+	"2022 "	"2022"	"Alabama"	"01"	"Female"	"F"	"More than one race"	"M"	0	50232	Unreliable
+	"2022 "	"2022"	"Alabama"	"01"	"Male"	"M"	"Black or African American"	"2054-5"	98	634508	15.4
+	"2022 "	"2022"	"Alabama"	"01"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2933	Unreliable
+	"2022 "	"2022"	"Alabama"	"01"	"Male"	"M"	"White"	"2106-3"	574	1724699	33.3
+	"2022 "	"2022"	"Alaska"	"02"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	21	56341	37.3
+	"2022 "	"2022"	"Alaska"	"02"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5936	Unreliable
+	"2022 "	"2022"	"Alaska"	"02"	"Female"	"F"	"White"	"2106-3"	12	218574	Unreliable
+	"2022 "	"2022"	"Alaska"	"02"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	44	58853	74.8
+	"2022 "	"2022"	"Alaska"	"02"	"Male"	"M"	"White"	"2106-3"	101	251527	40.2
+	"2022 "	"2022"	"Alaska"	"02"	"Male"	"M"	"More than one race"	"M"	12	30394	Unreliable
+	"2022 "	"2022"	"Arizona"	"04"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	27	192231	14.0
+	"2022 "	"2022"	"Arizona"	"04"	"Female"	"F"	"Black or African American"	"2054-5"	12	197194	Unreliable
+	"2022 "	"2022"	"Arizona"	"04"	"Female"	"F"	"White"	"2106-3"	253	3010786	8.4
+	"2022 "	"2022"	"Arizona"	"04"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	76	187481	40.5
+	"2022 "	"2022"	"Arizona"	"04"	"Male"	"M"	"Asian"	"A"	21	138014	15.2
+	"2022 "	"2022"	"Arizona"	"04"	"Male"	"M"	"Black or African American"	"2054-5"	51	210800	24.2
+	"2022 "	"2022"	"Arizona"	"04"	"Male"	"M"	"White"	"2106-3"	1143	3013805	37.9
+	"2022 "	"2022"	"Arizona"	"04"	"Male"	"M"	"More than one race"	"M"	22	117672	18.7
+	"2022 "	"2022"	"Arkansas"	"05"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	16528	Unreliable
+	"2022 "	"2022"	"Arkansas"	"05"	"Female"	"F"	"White"	"2106-3"	97	1202876	8.1
+	"2022 "	"2022"	"Arkansas"	"05"	"Female"	"F"	"More than one race"	"M"	0	37112	Unreliable
+	"2022 "	"2022"	"Arkansas"	"05"	"Male"	"M"	"Black or African American"	"2054-5"	39	227855	17.1
+	"2022 "	"2022"	"Arkansas"	"05"	"Male"	"M"	"White"	"2106-3"	397	1188984	33.4
+	"2022 "	"2022"	"California"	"06"	"Female"	"F"	"Asian"	"A"	125	3298267	3.8
+	"2022 "	"2022"	"California"	"06"	"Female"	"F"	"Black or African American"	"2054-5"	53	1263468	4.2
+	"2022 "	"2022"	"California"	"06"	"Female"	"F"	"White"	"2106-3"	724	13669626	5.3
+	"2022 "	"2022"	"California"	"06"	"Female"	"F"	"More than one race"	"M"	33	831832	4.0
+	"2022 "	"2022"	"California"	"06"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	18	343356	Unreliable
+	"2022 "	"2022"	"California"	"06"	"Male"	"M"	"Asian"	"A"	305	3049460	10.0
+	"2022 "	"2022"	"California"	"06"	"Male"	"M"	"Black or African American"	"2054-5"	187	1268489	14.7
+	"2022 "	"2022"	"California"	"06"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	18	102067	Unreliable
+	"2022 "	"2022"	"California"	"06"	"Male"	"M"	"White"	"2106-3"	2809	13937699	20.2
+	"2022 "	"2022"	"California"	"06"	"Male"	"M"	"More than one race"	"M"	116	833945	13.9
+	"2022 "	"2022"	"Colorado"	"08"	"Female"	"F"	"Asian"	"A"	10	116006	Unreliable
+	"2022 "	"2022"	"Colorado"	"08"	"Female"	"F"	"Black or African American"	"2054-5"	10	128059	Unreliable
+	"2022 "	"2022"	"Colorado"	"08"	"Female"	"F"	"White"	"2106-3"	264	2477723	10.7
+	"2022 "	"2022"	"Colorado"	"08"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	10	49864	Unreliable
+	"2022 "	"2022"	"Colorado"	"08"	"Male"	"M"	"Asian"	"A"	12	103267	Unreliable
+	"2022 "	"2022"	"Colorado"	"08"	"Male"	"M"	"Black or African American"	"2054-5"	34	148907	22.8
+	"2022 "	"2022"	"Colorado"	"08"	"Male"	"M"	"White"	"2106-3"	947	2555121	37.1
+	"2022 "	"2022"	"Colorado"	"08"	"Male"	"M"	"More than one race"	"M"	11	100760	Unreliable
+	"2022 "	"2022"	"Connecticut"	"09"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1982	Unreliable
+	"2022 "	"2022"	"Connecticut"	"09"	"Female"	"F"	"White"	"2106-3"	79	1444825	5.5
+	"2022 "	"2022"	"Connecticut"	"09"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	13692	Unreliable
+	"2022 "	"2022"	"Connecticut"	"09"	"Male"	"M"	"Asian"	"A"	10	91220	Unreliable
+	"2022 "	"2022"	"Connecticut"	"09"	"Male"	"M"	"Black or African American"	"2054-5"	33	223890	14.7
+	"2022 "	"2022"	"Connecticut"	"09"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2172	Unreliable
+	"2022 "	"2022"	"Connecticut"	"09"	"Male"	"M"	"White"	"2106-3"	262	1396662	18.8
+	"2022 "	"2022"	"Delaware"	"10"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	3531	Unreliable
+	"2022 "	"2022"	"Delaware"	"10"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	568	Unreliable
+	"2022 "	"2022"	"Delaware"	"10"	"Female"	"F"	"White"	"2106-3"	19	353668	Unreliable
+	"2022 "	"2022"	"Delaware"	"10"	"Female"	"F"	"More than one race"	"M"	0	15681	Unreliable
+	"2022 "	"2022"	"Delaware"	"10"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	3645	Unreliable
+	"2022 "	"2022"	"Delaware"	"10"	"Male"	"M"	"Black or African American"	"2054-5"	16	114338	Unreliable
+	"2022 "	"2022"	"Delaware"	"10"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	605	Unreliable
+	"2022 "	"2022"	"Delaware"	"10"	"Male"	"M"	"White"	"2106-3"	89	338838	26.3
+	"2022 "	"2022"	"District of Columbia"	"11"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2167	Unreliable
+	"2022 "	"2022"	"District of Columbia"	"11"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	589	Unreliable
+	"2022 "	"2022"	"District of Columbia"	"11"	"Female"	"F"	"More than one race"	"M"	0	11502	Unreliable
+	"2022 "	"2022"	"District of Columbia"	"11"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2521	Unreliable
+	"2022 "	"2022"	"District of Columbia"	"11"	"Male"	"M"	"Black or African American"	"2054-5"	20	137983	14.5
+	"2022 "	"2022"	"District of Columbia"	"11"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	538	Unreliable
+	"2022 "	"2022"	"District of Columbia"	"11"	"Male"	"M"	"White"	"2106-3"	15	155474	Unreliable
+	"2022 "	"2022"	"Florida"	"12"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	58106	Unreliable
+	"2022 "	"2022"	"Florida"	"12"	"Female"	"F"	"Asian"	"A"	16	370652	Unreliable
+	"2022 "	"2022"	"Florida"	"12"	"Female"	"F"	"Black or African American"	"2054-5"	60	1944773	3.1
+	"2022 "	"2022"	"Florida"	"12"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	13910	Unreliable
+	"2022 "	"2022"	"Florida"	"12"	"Female"	"F"	"White"	"2106-3"	696	8639225	8.1
+	"2022 "	"2022"	"Florida"	"12"	"Female"	"F"	"More than one race"	"M"	11	272731	Unreliable
+	"2022 "	"2022"	"Florida"	"12"	"Male"	"M"	"Asian"	"A"	37	326642	11.3
+	"2022 "	"2022"	"Florida"	"12"	"Male"	"M"	"Black or African American"	"2054-5"	207	1828563	11.3
+	"2022 "	"2022"	"Florida"	"12"	"Male"	"M"	"White"	"2106-3"	2421	8445426	28.7
+	"2022 "	"2022"	"Florida"	"12"	"Male"	"M"	"More than one race"	"M"	26	266718	9.7
+	"2022 "	"2022"	"Georgia"	"13"	"Female"	"F"	"Asian"	"A"	11	266635	Unreliable
+	"2022 "	"2022"	"Georgia"	"13"	"Female"	"F"	"Black or African American"	"2054-5"	71	1917347	3.7
+	"2022 "	"2022"	"Georgia"	"13"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7262	Unreliable
+	"2022 "	"2022"	"Georgia"	"13"	"Female"	"F"	"White"	"2106-3"	258	3224909	8.0
+	"2022 "	"2022"	"Georgia"	"13"	"Male"	"M"	"Asian"	"A"	23	254329	9.0
+	"2022 "	"2022"	"Georgia"	"13"	"Male"	"M"	"Black or African American"	"2054-5"	285	1696196	16.8
+	"2022 "	"2022"	"Georgia"	"13"	"Male"	"M"	"White"	"2106-3"	979	3211774	30.5
+	"2022 "	"2022"	"Hawaii"	"15"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2592	Unreliable
+	"2022 "	"2022"	"Hawaii"	"15"	"Female"	"F"	"Asian"	"A"	15	284913	Unreliable
+	"2022 "	"2022"	"Hawaii"	"15"	"Female"	"F"	"Black or African American"	"2054-5"	0	12311	Unreliable
+	"2022 "	"2022"	"Hawaii"	"15"	"Female"	"F"	"White"	"2106-3"	23	168494	13.7
+	"2022 "	"2022"	"Hawaii"	"15"	"Female"	"F"	"More than one race"	"M"	17	174423	Unreliable
+	"2022 "	"2022"	"Hawaii"	"15"	"Male"	"M"	"Asian"	"A"	45	249881	18.0
+	"2022 "	"2022"	"Hawaii"	"15"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	14	76092	Unreliable
+	"2022 "	"2022"	"Hawaii"	"15"	"Male"	"M"	"White"	"2106-3"	61	194766	31.3
+	"2022 "	"2022"	"Hawaii"	"15"	"Male"	"M"	"More than one race"	"M"	70	181629	38.5
+	"2022 "	"2022"	"Idaho"	"16"	"Female"	"F"	"Black or African American"	"2054-5"	0	8144	Unreliable
+	"2022 "	"2022"	"Idaho"	"16"	"Female"	"F"	"White"	"2106-3"	88	890770	9.9
+	"2022 "	"2022"	"Idaho"	"16"	"Male"	"M"	"White"	"2106-3"	337	905227	37.2
+	"2022 "	"2022"	"Illinois"	"17"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	38181	Unreliable
+	"2022 "	"2022"	"Illinois"	"17"	"Female"	"F"	"Black or African American"	"2054-5"	40	978187	4.1
+	"2022 "	"2022"	"Illinois"	"17"	"Female"	"F"	"White"	"2106-3"	284	4787433	5.9
+	"2022 "	"2022"	"Illinois"	"17"	"Male"	"M"	"Asian"	"A"	30	383099	7.8
+	"2022 "	"2022"	"Illinois"	"17"	"Male"	"M"	"Black or African American"	"2054-5"	136	873285	15.6
+	"2022 "	"2022"	"Illinois"	"17"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4505	Unreliable
+	"2022 "	"2022"	"Illinois"	"17"	"Male"	"M"	"White"	"2106-3"	1055	4785173	22.0
+	"2022 "	"2022"	"Indiana"	"18"	"Female"	"F"	"Black or African American"	"2054-5"	16	362484	Unreliable
+	"2022 "	"2022"	"Indiana"	"18"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2529	Unreliable
+	"2022 "	"2022"	"Indiana"	"18"	"Female"	"F"	"White"	"2106-3"	185	2880610	6.4
+	"2022 "	"2022"	"Indiana"	"18"	"Male"	"M"	"Asian"	"A"	14	97828	Unreliable
+	"2022 "	"2022"	"Indiana"	"18"	"Male"	"M"	"Black or African American"	"2054-5"	61	341751	17.8
+	"2022 "	"2022"	"Indiana"	"18"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2633	Unreliable
+	"2022 "	"2022"	"Indiana"	"18"	"Male"	"M"	"White"	"2106-3"	863	2856334	30.2
+	"2022 "	"2022"	"Indiana"	"18"	"Male"	"M"	"More than one race"	"M"	10	81456	Unreliable
+	"2022 "	"2022"	"Iowa"	"19"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	9292	Unreliable
+	"2022 "	"2022"	"Iowa"	"19"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3545	Unreliable
+	"2022 "	"2022"	"Iowa"	"19"	"Female"	"F"	"White"	"2106-3"	105	1437534	7.3
+	"2022 "	"2022"	"Iowa"	"19"	"Male"	"M"	"Black or African American"	"2054-5"	18	75849	Unreliable
+	"2022 "	"2022"	"Iowa"	"19"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3837	Unreliable
+	"2022 "	"2022"	"Iowa"	"19"	"Male"	"M"	"White"	"2106-3"	445	1437329	31.0
+	"2022 "	"2022"	"Kansas"	"20"	"Female"	"F"	"White"	"2106-3"	104	1257752	8.3
+	"2022 "	"2022"	"Kansas"	"20"	"Male"	"M"	"Black or African American"	"2054-5"	27	95606	28.2
+	"2022 "	"2022"	"Kansas"	"20"	"Male"	"M"	"White"	"2106-3"	428	1263906	33.9
+	"2022 "	"2022"	"Kansas"	"20"	"Male"	"M"	"More than one race"	"M"	14	48770	Unreliable
+	"2022 "	"2022"	"Kentucky"	"21"	"Female"	"F"	"Black or African American"	"2054-5"	11	194762	Unreliable
+	"2022 "	"2022"	"Kentucky"	"21"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2496	Unreliable
+	"2022 "	"2022"	"Kentucky"	"21"	"Female"	"F"	"White"	"2106-3"	134	1975786	6.8
+	"2022 "	"2022"	"Kentucky"	"21"	"Male"	"M"	"Black or African American"	"2054-5"	46	196244	23.4
+	"2022 "	"2022"	"Kentucky"	"21"	"Male"	"M"	"White"	"2106-3"	627	1944328	32.2
+	"2022 "	"2022"	"Louisiana"	"22"	"Female"	"F"	"Asian"	"A"	0	44797	Unreliable
+	"2022 "	"2022"	"Louisiana"	"22"	"Female"	"F"	"Black or African American"	"2054-5"	16	790793	Unreliable
+	"2022 "	"2022"	"Louisiana"	"22"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1509	Unreliable
+	"2022 "	"2022"	"Louisiana"	"22"	"Female"	"F"	"White"	"2106-3"	115	1442475	8.0
+	"2022 "	"2022"	"Louisiana"	"22"	"Male"	"M"	"Black or African American"	"2054-5"	126	713957	17.6
+	"2022 "	"2022"	"Louisiana"	"22"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1511	Unreliable
+	"2022 "	"2022"	"Louisiana"	"22"	"Male"	"M"	"White"	"2106-3"	473	1426470	33.2
+	"2022 "	"2022"	"Maine"	"23"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	256	Unreliable
+	"2022 "	"2022"	"Maine"	"23"	"Female"	"F"	"White"	"2106-3"	52	660291	7.9
+	"2022 "	"2022"	"Maine"	"23"	"Female"	"F"	"More than one race"	"M"	0	13664	Unreliable
+	"2022 "	"2022"	"Maine"	"23"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	305	Unreliable
+	"2022 "	"2022"	"Maine"	"23"	"Male"	"M"	"White"	"2106-3"	199	640916	31.0
+	"2022 "	"2022"	"Maryland"	"24"	"Female"	"F"	"Asian"	"A"	11	227137	Unreliable
+	"2022 "	"2022"	"Maryland"	"24"	"Female"	"F"	"Black or African American"	"2054-5"	35	1036327	3.4
+	"2022 "	"2022"	"Maryland"	"24"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3728	Unreliable
+	"2022 "	"2022"	"Maryland"	"24"	"Female"	"F"	"White"	"2106-3"	95	1773839	5.4
+	"2022 "	"2022"	"Maryland"	"24"	"Female"	"F"	"More than one race"	"M"	0	100529	Unreliable
+	"2022 "	"2022"	"Maryland"	"24"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	22148	Unreliable
+	"2022 "	"2022"	"Maryland"	"24"	"Male"	"M"	"Asian"	"A"	19	208046	Unreliable
+	"2022 "	"2022"	"Maryland"	"24"	"Male"	"M"	"Black or African American"	"2054-5"	118	915331	12.9
+	"2022 "	"2022"	"Maryland"	"24"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3919	Unreliable
+	"2022 "	"2022"	"Maryland"	"24"	"Male"	"M"	"White"	"2106-3"	348	1756880	19.8
+	"2022 "	"2022"	"Massachusetts"	"25"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	18056	Unreliable
+	"2022 "	"2022"	"Massachusetts"	"25"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3993	Unreliable
+	"2022 "	"2022"	"Massachusetts"	"25"	"Female"	"F"	"White"	"2106-3"	118	2830104	4.2
+	"2022 "	"2022"	"Massachusetts"	"25"	"Male"	"M"	"Asian"	"A"	10	259626	Unreliable
+	"2022 "	"2022"	"Massachusetts"	"25"	"Male"	"M"	"Black or African American"	"2054-5"	35	323955	10.8
+	"2022 "	"2022"	"Massachusetts"	"25"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3796	Unreliable
+	"2022 "	"2022"	"Massachusetts"	"25"	"Male"	"M"	"White"	"2106-3"	452	2716245	16.6
+	"2022 "	"2022"	"Michigan"	"26"	"Female"	"F"	"Asian"	"A"	14	177205	Unreliable
+	"2022 "	"2022"	"Michigan"	"26"	"Female"	"F"	"Black or African American"	"2054-5"	30	741514	4.0
+	"2022 "	"2022"	"Michigan"	"26"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2332	Unreliable
+	"2022 "	"2022"	"Michigan"	"26"	"Female"	"F"	"White"	"2106-3"	283	3953672	7.2
+	"2022 "	"2022"	"Michigan"	"26"	"Male"	"M"	"Asian"	"A"	15	175239	Unreliable
+	"2022 "	"2022"	"Michigan"	"26"	"Male"	"M"	"Black or African American"	"2054-5"	110	676829	16.3
+	"2022 "	"2022"	"Michigan"	"26"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2370	Unreliable
+	"2022 "	"2022"	"Michigan"	"26"	"Male"	"M"	"White"	"2106-3"	1056	3952661	26.7
+	"2022 "	"2022"	"Michigan"	"26"	"Male"	"M"	"More than one race"	"M"	17	138234	Unreliable
+	"2022 "	"2022"	"Minnesota"	"27"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2449	Unreliable
+	"2022 "	"2022"	"Minnesota"	"27"	"Female"	"F"	"White"	"2106-3"	172	2352115	7.3
+	"2022 "	"2022"	"Minnesota"	"27"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	17	39804	Unreliable
+	"2022 "	"2022"	"Minnesota"	"27"	"Male"	"M"	"Asian"	"A"	17	154212	Unreliable
+	"2022 "	"2022"	"Minnesota"	"27"	"Male"	"M"	"Black or African American"	"2054-5"	34	224456	15.1
+	"2022 "	"2022"	"Minnesota"	"27"	"Male"	"M"	"White"	"2106-3"	591	2369931	24.9
+	"2022 "	"2022"	"Minnesota"	"27"	"Male"	"M"	"More than one race"	"M"	16	80237	Unreliable
+	"2022 "	"2022"	"Mississippi"	"28"	"Female"	"F"	"Black or African American"	"2054-5"	20	587665	3.4
+	"2022 "	"2022"	"Mississippi"	"28"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	955	Unreliable
+	"2022 "	"2022"	"Mississippi"	"28"	"Female"	"F"	"White"	"2106-3"	72	872341	8.3
+	"2022 "	"2022"	"Mississippi"	"28"	"Female"	"F"	"More than one race"	"M"	0	22784	Unreliable
+	"2022 "	"2022"	"Mississippi"	"28"	"Male"	"M"	"Black or African American"	"2054-5"	60	522868	11.5
+	"2022 "	"2022"	"Mississippi"	"28"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1052	Unreliable
+	"2022 "	"2022"	"Mississippi"	"28"	"Male"	"M"	"White"	"2106-3"	257	857350	30.0
+	"2022 "	"2022"	"Missouri"	"29"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	18615	Unreliable
+	"2022 "	"2022"	"Missouri"	"29"	"Female"	"F"	"Black or African American"	"2054-5"	18	378673	Unreliable
+	"2022 "	"2022"	"Missouri"	"29"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5798	Unreliable
+	"2022 "	"2022"	"Missouri"	"29"	"Female"	"F"	"White"	"2106-3"	218	2563852	8.5
+	"2022 "	"2022"	"Missouri"	"29"	"Male"	"M"	"Black or African American"	"2054-5"	76	346644	21.9
+	"2022 "	"2022"	"Missouri"	"29"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5990	Unreliable
+	"2022 "	"2022"	"Missouri"	"29"	"Male"	"M"	"White"	"2106-3"	891	2531773	35.2
+	"2022 "	"2022"	"Missouri"	"29"	"Male"	"M"	"More than one race"	"M"	14	82492	Unreliable
+	"2022 "	"2022"	"Montana"	"30"	"Female"	"F"	"Asian"	"A"	0	7138	Unreliable
+	"2022 "	"2022"	"Montana"	"30"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	558	Unreliable
+	"2022 "	"2022"	"Montana"	"30"	"Female"	"F"	"White"	"2106-3"	42	489481	8.6
+	"2022 "	"2022"	"Montana"	"30"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	33	36181	91.2
+	"2022 "	"2022"	"Montana"	"30"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	550	Unreliable
+	"2022 "	"2022"	"Montana"	"30"	"Male"	"M"	"White"	"2106-3"	241	506698	47.6
+	"2022 "	"2022"	"Nebraska"	"31"	"Female"	"F"	"Asian"	"A"	0	28215	Unreliable
+	"2022 "	"2022"	"Nebraska"	"31"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1310	Unreliable
+	"2022 "	"2022"	"Nebraska"	"31"	"Female"	"F"	"White"	"2106-3"	47	855990	5.5
+	"2022 "	"2022"	"Nebraska"	"31"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1447	Unreliable
+	"2022 "	"2022"	"Nebraska"	"31"	"Male"	"M"	"White"	"2106-3"	245	865893	28.3
+	"2022 "	"2022"	"Nevada"	"32"	"Female"	"F"	"Black or African American"	"2054-5"	18	173280	Unreliable
+	"2022 "	"2022"	"Nevada"	"32"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	14089	Unreliable
+	"2022 "	"2022"	"Nevada"	"32"	"Female"	"F"	"White"	"2106-3"	127	1116111	11.4
+	"2022 "	"2022"	"Nevada"	"32"	"Male"	"M"	"Asian"	"A"	28	137024	20.4
+	"2022 "	"2022"	"Nevada"	"32"	"Male"	"M"	"Black or African American"	"2054-5"	46	171077	26.9
+	"2022 "	"2022"	"Nevada"	"32"	"Male"	"M"	"White"	"2106-3"	450	1174103	38.3
+	"2022 "	"2022"	"Nevada"	"32"	"Male"	"M"	"More than one race"	"M"	14	80374	Unreliable
+	"2022 "	"2022"	"New Hampshire"	"33"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2040	Unreliable
+	"2022 "	"2022"	"New Hampshire"	"33"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	417	Unreliable
+	"2022 "	"2022"	"New Hampshire"	"33"	"Female"	"F"	"White"	"2106-3"	51	646856	7.9
+	"2022 "	"2022"	"New Hampshire"	"33"	"Female"	"F"	"More than one race"	"M"	0	12869	Unreliable
+	"2022 "	"2022"	"New Hampshire"	"33"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2386	Unreliable
+	"2022 "	"2022"	"New Hampshire"	"33"	"Male"	"M"	"Asian"	"A"	0	21302	Unreliable
+	"2022 "	"2022"	"New Hampshire"	"33"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	458	Unreliable
+	"2022 "	"2022"	"New Hampshire"	"33"	"Male"	"M"	"White"	"2106-3"	189	644557	29.3
+	"2022 "	"2022"	"New Jersey"	"34"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	32664	Unreliable
+	"2022 "	"2022"	"New Jersey"	"34"	"Female"	"F"	"Asian"	"A"	20	496076	4.0
+	"2022 "	"2022"	"New Jersey"	"34"	"Female"	"F"	"Black or African American"	"2054-5"	17	745341	Unreliable
+	"2022 "	"2022"	"New Jersey"	"34"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6138	Unreliable
+	"2022 "	"2022"	"New Jersey"	"34"	"Female"	"F"	"White"	"2106-3"	126	3302811	3.8
+	"2022 "	"2022"	"New Jersey"	"34"	"Male"	"M"	"Asian"	"A"	39	480736	8.1
+	"2022 "	"2022"	"New Jersey"	"34"	"Male"	"M"	"Black or African American"	"2054-5"	62	684523	9.1
+	"2022 "	"2022"	"New Jersey"	"34"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6148	Unreliable
+	"2022 "	"2022"	"New Jersey"	"34"	"Male"	"M"	"White"	"2106-3"	505	3246958	15.6
+	"2022 "	"2022"	"New Mexico"	"35"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	23	120926	19.0
+	"2022 "	"2022"	"New Mexico"	"35"	"Female"	"F"	"Asian"	"A"	0	22151	Unreliable
+	"2022 "	"2022"	"New Mexico"	"35"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1752	Unreliable
+	"2022 "	"2022"	"New Mexico"	"35"	"Female"	"F"	"White"	"2106-3"	91	859442	10.6
+	"2022 "	"2022"	"New Mexico"	"35"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	54	115223	46.9
+	"2022 "	"2022"	"New Mexico"	"35"	"Male"	"M"	"Black or African American"	"2054-5"	12	31717	Unreliable
+	"2022 "	"2022"	"New Mexico"	"35"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1763	Unreliable
+	"2022 "	"2022"	"New Mexico"	"35"	"Male"	"M"	"White"	"2106-3"	346	855409	40.4
+	"2022 "	"2022"	"New York"	"36"	"Female"	"F"	"Asian"	"A"	49	983498	5.0
+	"2022 "	"2022"	"New York"	"36"	"Female"	"F"	"Black or African American"	"2054-5"	39	1845074	2.1
+	"2022 "	"2022"	"New York"	"36"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	14458	Unreliable
+	"2022 "	"2022"	"New York"	"36"	"Female"	"F"	"White"	"2106-3"	314	6822123	4.6
+	"2022 "	"2022"	"New York"	"36"	"Male"	"M"	"Asian"	"A"	73	910829	8.0
+	"2022 "	"2022"	"New York"	"36"	"Male"	"M"	"Black or African American"	"2054-5"	161	1646458	9.8
+	"2022 "	"2022"	"New York"	"36"	"Male"	"M"	"White"	"2106-3"	1142	6679336	17.1
+	"2022 "	"2022"	"New York"	"36"	"Male"	"M"	"More than one race"	"M"	10	271330	Unreliable
+	"2022 "	"2022"	"North Carolina"	"37"	"Female"	"F"	"Black or African American"	"2054-5"	55	1253532	4.4
+	"2022 "	"2022"	"North Carolina"	"37"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7724	Unreliable
+	"2022 "	"2022"	"North Carolina"	"37"	"Female"	"F"	"White"	"2106-3"	282	3776153	7.5
+	"2022 "	"2022"	"North Carolina"	"37"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	20	82434	24.3
+	"2022 "	"2022"	"North Carolina"	"37"	"Male"	"M"	"Asian"	"A"	28	188428	14.9
+	"2022 "	"2022"	"North Carolina"	"37"	"Male"	"M"	"Black or African American"	"2054-5"	157	1120344	14.0
+	"2022 "	"2022"	"North Carolina"	"37"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8154	Unreliable
+	"2022 "	"2022"	"North Carolina"	"37"	"Male"	"M"	"White"	"2106-3"	1070	3704140	28.9
+	"2022 "	"2022"	"North Dakota"	"38"	"Female"	"F"	"Asian"	"A"	0	6790	Unreliable
+	"2022 "	"2022"	"North Dakota"	"38"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	442	Unreliable
+	"2022 "	"2022"	"North Dakota"	"38"	"Female"	"F"	"White"	"2106-3"	18	328528	Unreliable
+	"2022 "	"2022"	"North Dakota"	"38"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	10	20482	Unreliable
+	"2022 "	"2022"	"North Dakota"	"38"	"Male"	"M"	"Asian"	"A"	0	6821	Unreliable
+	"2022 "	"2022"	"North Dakota"	"38"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	477	Unreliable
+	"2022 "	"2022"	"North Dakota"	"38"	"Male"	"M"	"White"	"2106-3"	134	346557	38.7
+	"2022 "	"2022"	"North Dakota"	"38"	"Male"	"M"	"More than one race"	"M"	0	10450	Unreliable
+	"2022 "	"2022"	"Ohio"	"39"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	17445	Unreliable
+	"2022 "	"2022"	"Ohio"	"39"	"Female"	"F"	"Black or African American"	"2054-5"	43	810398	5.3
+	"2022 "	"2022"	"Ohio"	"39"	"Female"	"F"	"White"	"2106-3"	317	4792222	6.6
+	"2022 "	"2022"	"Ohio"	"39"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	18396	Unreliable
+	"2022 "	"2022"	"Ohio"	"39"	"Male"	"M"	"Asian"	"A"	19	157881	Unreliable
+	"2022 "	"2022"	"Ohio"	"39"	"Male"	"M"	"Black or African American"	"2054-5"	159	755578	21.0
+	"2022 "	"2022"	"Ohio"	"39"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4454	Unreliable
+	"2022 "	"2022"	"Ohio"	"39"	"Male"	"M"	"White"	"2106-3"	1282	4717723	27.2
+	"2022 "	"2022"	"Oklahoma"	"40"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	18	192160	Unreliable
+	"2022 "	"2022"	"Oklahoma"	"40"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4785	Unreliable
+	"2022 "	"2022"	"Oklahoma"	"40"	"Female"	"F"	"White"	"2106-3"	132	1470905	9.0
+	"2022 "	"2022"	"Oklahoma"	"40"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	68	190478	35.7
+	"2022 "	"2022"	"Oklahoma"	"40"	"Male"	"M"	"Black or African American"	"2054-5"	44	161139	27.3
+	"2022 "	"2022"	"Oklahoma"	"40"	"Male"	"M"	"White"	"2106-3"	555	1465217	37.9
+	"2022 "	"2022"	"Oklahoma"	"40"	"Male"	"M"	"More than one race"	"M"	39	132517	29.4
+	"2022 "	"2022"	"Oregon"	"41"	"Female"	"F"	"Black or African American"	"2054-5"	0	45133	Unreliable
+	"2022 "	"2022"	"Oregon"	"41"	"Female"	"F"	"White"	"2106-3"	176	1822335	9.7
+	"2022 "	"2022"	"Oregon"	"41"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	11	41148	Unreliable
+	"2022 "	"2022"	"Oregon"	"41"	"Male"	"M"	"Asian"	"A"	16	101881	Unreliable
+	"2022 "	"2022"	"Oregon"	"41"	"Male"	"M"	"Black or African American"	"2054-5"	14	54089	Unreliable
+	"2022 "	"2022"	"Oregon"	"41"	"Male"	"M"	"White"	"2106-3"	640	1818050	35.2
+	"2022 "	"2022"	"Oregon"	"41"	"Male"	"M"	"More than one race"	"M"	14	91403	Unreliable
+	"2022 "	"2022"	"Pennsylvania"	"42"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	28413	Unreliable
+	"2022 "	"2022"	"Pennsylvania"	"42"	"Female"	"F"	"Asian"	"A"	12	272107	Unreliable
+	"2022 "	"2022"	"Pennsylvania"	"42"	"Female"	"F"	"Black or African American"	"2054-5"	30	816847	3.7
+	"2022 "	"2022"	"Pennsylvania"	"42"	"Female"	"F"	"White"	"2106-3"	345	5287919	6.5
+	"2022 "	"2022"	"Pennsylvania"	"42"	"Male"	"M"	"Asian"	"A"	39	260527	15.0
+	"2022 "	"2022"	"Pennsylvania"	"42"	"Male"	"M"	"Black or African American"	"2054-5"	138	765604	18.0
+	"2022 "	"2022"	"Pennsylvania"	"42"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6052	Unreliable
+	"2022 "	"2022"	"Pennsylvania"	"42"	"Male"	"M"	"White"	"2106-3"	1393	5191715	26.8
+	"2022 "	"2022"	"Pennsylvania"	"42"	"Male"	"M"	"More than one race"	"M"	12	151907	Unreliable
+	"2022 "	"2022"	"Rhode Island"	"44"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1112	Unreliable
+	"2022 "	"2022"	"Rhode Island"	"44"	"Female"	"F"	"White"	"2106-3"	32	462019	6.9
+	"2022 "	"2022"	"Rhode Island"	"44"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	6750	Unreliable
+	"2022 "	"2022"	"Rhode Island"	"44"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1174	Unreliable
+	"2022 "	"2022"	"Rhode Island"	"44"	"Male"	"M"	"White"	"2106-3"	83	443083	18.7
+	"2022 "	"2022"	"South Carolina"	"45"	"Female"	"F"	"Black or African American"	"2054-5"	17	736318	Unreliable
+	"2022 "	"2022"	"South Carolina"	"45"	"Female"	"F"	"White"	"2106-3"	169	1842348	9.2
+	"2022 "	"2022"	"South Carolina"	"45"	"Female"	"F"	"More than one race"	"M"	0	59465	Unreliable
+	"2022 "	"2022"	"South Carolina"	"45"	"Male"	"M"	"Black or African American"	"2054-5"	80	650623	12.3
+	"2022 "	"2022"	"South Carolina"	"45"	"Male"	"M"	"White"	"2106-3"	574	1795431	32.0
+	"2022 "	"2022"	"South Dakota"	"46"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	12	38781	Unreliable
+	"2022 "	"2022"	"South Dakota"	"46"	"Female"	"F"	"Asian"	"A"	0	8687	Unreliable
+	"2022 "	"2022"	"South Dakota"	"46"	"Female"	"F"	"Black or African American"	"2054-5"	0	9695	Unreliable
+	"2022 "	"2022"	"South Dakota"	"46"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	638	Unreliable
+	"2022 "	"2022"	"South Dakota"	"46"	"Female"	"F"	"White"	"2106-3"	32	376856	8.5
+	"2022 "	"2022"	"South Dakota"	"46"	"Female"	"F"	"More than one race"	"M"	0	12444	Unreliable
+	"2022 "	"2022"	"South Dakota"	"46"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	31	38700	80.1
+	"2022 "	"2022"	"South Dakota"	"46"	"Male"	"M"	"White"	"2106-3"	109	389613	28.0
+	"2022 "	"2022"	"Tennessee"	"47"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	17434	Unreliable
+	"2022 "	"2022"	"Tennessee"	"47"	"Female"	"F"	"Black or African American"	"2054-5"	19	621315	Unreliable
+	"2022 "	"2022"	"Tennessee"	"47"	"Female"	"F"	"White"	"2106-3"	208	2790328	7.5
+	"2022 "	"2022"	"Tennessee"	"47"	"Male"	"M"	"Black or African American"	"2054-5"	99	559549	17.7
+	"2022 "	"2022"	"Tennessee"	"47"	"Male"	"M"	"White"	"2106-3"	908	2731073	33.2
+	"2022 "	"2022"	"Texas"	"48"	"Female"	"F"	"Asian"	"A"	30	870153	3.4
+	"2022 "	"2022"	"Texas"	"48"	"Female"	"F"	"Black or African American"	"2054-5"	81	2063985	3.9
+	"2022 "	"2022"	"Texas"	"48"	"Female"	"F"	"White"	"2106-3"	743	11556385	6.4
+	"2022 "	"2022"	"Texas"	"48"	"Male"	"M"	"Asian"	"A"	80	846522	9.5
+	"2022 "	"2022"	"Texas"	"48"	"Male"	"M"	"Black or African American"	"2054-5"	326	1956787	16.7
+	"2022 "	"2022"	"Texas"	"48"	"Male"	"M"	"White"	"2106-3"	3128	11685731	26.8
+	"2022 "	"2022"	"Texas"	"48"	"Male"	"M"	"More than one race"	"M"	13	339579	Unreliable
+	"2022 "	"2022"	"Utah"	"49"	"Female"	"F"	"White"	"2106-3"	143	1498636	9.5
+	"2022 "	"2022"	"Utah"	"49"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	14	26203	Unreliable
+	"2022 "	"2022"	"Utah"	"49"	"Male"	"M"	"White"	"2106-3"	528	1544964	34.2
+	"2022 "	"2022"	"Utah"	"49"	"Male"	"M"	"More than one race"	"M"	11	50285	Unreliable
+	"2022 "	"2022"	"Vermont"	"50"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	1231	Unreliable
+	"2022 "	"2022"	"Vermont"	"50"	"Female"	"F"	"Black or African American"	"2054-5"	0	4163	Unreliable
+	"2022 "	"2022"	"Vermont"	"50"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	112	Unreliable
+	"2022 "	"2022"	"Vermont"	"50"	"Female"	"F"	"White"	"2106-3"	32	305377	10.5
+	"2022 "	"2022"	"Vermont"	"50"	"Female"	"F"	"More than one race"	"M"	0	6927	Unreliable
+	"2022 "	"2022"	"Vermont"	"50"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	1315	Unreliable
+	"2022 "	"2022"	"Vermont"	"50"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	138	Unreliable
+	"2022 "	"2022"	"Vermont"	"50"	"Male"	"M"	"White"	"2106-3"	94	301812	31.1
+	"2022 "	"2022"	"Virginia"	"51"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	24267	Unreliable
+	"2022 "	"2022"	"Virginia"	"51"	"Female"	"F"	"Asian"	"A"	13	332969	Unreliable
+	"2022 "	"2022"	"Virginia"	"51"	"Female"	"F"	"Black or African American"	"2054-5"	25	897867	2.8
+	"2022 "	"2022"	"Virginia"	"51"	"Female"	"F"	"White"	"2106-3"	198	2973601	6.7
+	"2022 "	"2022"	"Virginia"	"51"	"Male"	"M"	"Asian"	"A"	31	304687	10.2
+	"2022 "	"2022"	"Virginia"	"51"	"Male"	"M"	"Black or African American"	"2054-5"	147	840043	17.5
+	"2022 "	"2022"	"Virginia"	"51"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5545	Unreliable
+	"2022 "	"2022"	"Virginia"	"51"	"Male"	"M"	"White"	"2106-3"	788	2973731	26.5
+	"2022 "	"2022"	"Virginia"	"51"	"Male"	"M"	"More than one race"	"M"	15	148799	Unreliable
+	"2022 "	"2022"	"Washington"	"53"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	11	75977	Unreliable
+	"2022 "	"2022"	"Washington"	"53"	"Female"	"F"	"Asian"	"A"	23	423089	5.4
+	"2022 "	"2022"	"Washington"	"53"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	32636	Unreliable
+	"2022 "	"2022"	"Washington"	"53"	"Female"	"F"	"White"	"2106-3"	204	2958573	6.9
+	"2022 "	"2022"	"Washington"	"53"	"Female"	"F"	"More than one race"	"M"	15	204227	Unreliable
+	"2022 "	"2022"	"Washington"	"53"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	17	78201	Unreliable
+	"2022 "	"2022"	"Washington"	"53"	"Male"	"M"	"Asian"	"A"	49	391149	12.5
+	"2022 "	"2022"	"Washington"	"53"	"Male"	"M"	"Black or African American"	"2054-5"	43	194488	22.1
+	"2022 "	"2022"	"Washington"	"53"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	12	33337	Unreliable
+	"2022 "	"2022"	"Washington"	"53"	"Male"	"M"	"White"	"2106-3"	851	3023733	28.1
+	"2022 "	"2022"	"Washington"	"53"	"Male"	"M"	"More than one race"	"M"	31	207434	14.9
+	"2022 "	"2022"	"West Virginia"	"54"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	0	2333	Unreliable
+	"2022 "	"2022"	"West Virginia"	"54"	"Female"	"F"	"Asian"	"A"	0	8497	Unreliable
+	"2022 "	"2022"	"West Virginia"	"54"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	312	Unreliable
+	"2022 "	"2022"	"West Virginia"	"54"	"Female"	"F"	"White"	"2106-3"	65	828188	7.8
+	"2022 "	"2022"	"West Virginia"	"54"	"Female"	"F"	"More than one race"	"M"	0	19382	Unreliable
+	"2022 "	"2022"	"West Virginia"	"54"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	0	2555	Unreliable
+	"2022 "	"2022"	"West Virginia"	"54"	"Male"	"M"	"Asian"	"A"	0	7794	Unreliable
+	"2022 "	"2022"	"West Virginia"	"54"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	305	Unreliable
+	"2022 "	"2022"	"West Virginia"	"54"	"Male"	"M"	"White"	"2106-3"	279	819846	34.0
+	"2022 "	"2022"	"Wisconsin"	"55"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1714	Unreliable
+	"2022 "	"2022"	"Wisconsin"	"55"	"Female"	"F"	"White"	"2106-3"	175	2539054	6.9
+	"2022 "	"2022"	"Wisconsin"	"55"	"Female"	"F"	"More than one race"	"M"	0	66262	Unreliable
+	"2022 "	"2022"	"Wisconsin"	"55"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	13	36102	Unreliable
+	"2022 "	"2022"	"Wisconsin"	"55"	"Male"	"M"	"Asian"	"A"	12	93910	Unreliable
+	"2022 "	"2022"	"Wisconsin"	"55"	"Male"	"M"	"Black or African American"	"2054-5"	51	192466	26.5
+	"2022 "	"2022"	"Wisconsin"	"55"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1898	Unreliable
+	"2022 "	"2022"	"Wisconsin"	"55"	"Male"	"M"	"White"	"2106-3"	652	2564701	25.4
+	"2022 "	"2022"	"Wisconsin"	"55"	"Male"	"M"	"More than one race"	"M"	10	66229	Unreliable
+	"2022 "	"2022"	"Wyoming"	"56"	"Female"	"F"	"Asian"	"A"	0	3395	Unreliable
+	"2022 "	"2022"	"Wyoming"	"56"	"Female"	"F"	"Black or African American"	"2054-5"	0	2958	Unreliable
+	"2022 "	"2022"	"Wyoming"	"56"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	303	Unreliable
+	"2022 "	"2022"	"Wyoming"	"56"	"Female"	"F"	"White"	"2106-3"	18	261736	Unreliable
+	"2022 "	"2022"	"Wyoming"	"56"	"Female"	"F"	"More than one race"	"M"	0	7029	Unreliable
+	"2022 "	"2022"	"Wyoming"	"56"	"Male"	"M"	"Asian"	"A"	0	3111	Unreliable
+	"2022 "	"2022"	"Wyoming"	"56"	"Male"	"M"	"Black or African American"	"2054-5"	0	4204	Unreliable
+	"2022 "	"2022"	"Wyoming"	"56"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	324	Unreliable
+	"2022 "	"2022"	"Wyoming"	"56"	"Male"	"M"	"White"	"2106-3"	133	274837	48.4
+	"2022 "	"2022"	"Wyoming"	"56"	"Male"	"M"	"More than one race"	"M"	0	7211	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 2018-2022, Single Race"
+"Query Parameters:"
+"Title: 2018 to 2022 Year State Gender Race Suicides"
+"MCD - ICD-10 Codes: X60-X84 (Intentional self-harm); Y87.0 (Sequelae of intentional self-harm); Y87.1 (Sequelae of assault);"
+"Y87.2 (Sequelae of events of undetermined intent)"
+"Group By: Year; State; Gender; Single Race 6"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Oct 25, 2024 2:13:20 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2022 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2022, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Oct 25, 2024 2:13:20 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Unreliable."
+"3. The population figures for years 2022 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). The population figures for year 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"5. Connecticut population estimates for 2022 are reported for 9 planning regions as county equivalent areas, instead of the"
+"former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. Populations"
+"estimates for the former counties are not available for 2022. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."
