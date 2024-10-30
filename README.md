@@ -3,9 +3,9 @@
 ![Alt text](miscellaneous/sadness-5520345_1920.jpg) 
 
 ## Project Description
-Suicides is one of the leading causes of death in the United States. According to the U.S. Center for Disease Control and Prevention (CDC), in 2022 alone, there are over 49,000 people who died by suicide, and 1 person dies every 11 minutes due to suicide.
+Suicides is one of the leading causes of death in the United States. According to the U.S. Centers for Disease Control and Prevention (CDC), in 2022 alone, there are over 49,000 people who died by suicide, and 1 person dies every 11 minutes due to suicide.
 
-Because suicide has been a pressing issue, this project focuses on an Exploratory Data Analysis of the different factors influencing suicide in the United States for the years 2000 to 2022. Data on U.S. demographics (gender, age group, race, and population density), socioeconomic factors (unemployment, median household income, gun ownership, and veteran deaths), and psychosocial factors (illicit drug use and depression) were collected from various credible sources. Additionally, further analysis on these factors are done with respect to its impact on Suicide Rates across U.S. states.
+Because suicide has long been a pressing issue, this project focuses on an Exploratory Data Analysis of the different factors influencing suicide in the United States for the years 2000 to 2022. Data on U.S. demographics (gender, age group, race, and population density), socioeconomic factors (unemployment, median household income, gun ownership, and veteran deaths), and psychosocial factors (illicit drug use and depression) were collected from various credible sources. Additionally, further analysis on these factors are done with respect to its impact on Suicide Rates across the United States.
 
 ## Installation
 To run the code in `code/`, install the following Python packages:
@@ -22,13 +22,13 @@ pip install kaleido
 ## Usage
 To execute the code, please make sure to reference the Python Notebook from  `code/`  and the processed datasets from  `dataset/`. 
 
-The code will first run the imports of the needed Python packages above, then reference the files from `dataset/`, clean and transform the datasets from `dataset/` , merge the dataframes, and run the visualizations and charts at the end.
+The code will first run the imports of the needed Python packages above, then reference the files from `dataset/`, clean and transform the files from `dataset/` , merge the dataframes, and run the visualizations and charts as documented in the main notebook in `code/`.
 
 ## Project Structure
 The folder structure for this project is structured into three:
 1. `raw_datasets/`, which contains most of the original, unmodified datasets from various sources. These files are then manually processed via Excel and are stored in the `datasets/` folder.
-2. `datasets/`, which contains the processed files via Excel, as well as some raw datasets which are only processed via Python. The datasets processed via Python are cleaned using the Main Python Notebook.ipynb in `code `.
-3. `code/`, which contains the Main Python Notebook code for further cleansing of the datasets, as well as the Exploratory Data Analysis and Visualizations for the project.
+2. `datasets/`, which contains the processed files via Excel, as well as some raw datasets which were only processed via Python. The datasets processed via Python are cleaned using the Main Python Notebook.ipynb in `code `.
+3. `code/`, which contains the main notebook for further cleansing of the datasets, and more importantly, the Exploratory Data Analysis and Visualizations for the project.
 
 ### Raw Data (raw_datasets/)
 The folder `raw_datasets/` include some of the original, unmodified datasets. These files were manually cleaned and transformed using Excel, due to the difference in structure and file type. The processed versions of these files are then stored in `datasets/`.
@@ -55,9 +55,9 @@ This folder contains the following files:
 - Depression 2022.xlsx: This file contains state level data of depression per 100k of state population in 2022
 
 ### Datasets (datasets/)
-The folder `datasets` contain the processed datasets after some of the raw data from `raw_datasets/` have been initially cleaned using Excel. The files in this folder are ready for import and further cleaning in the `code/` notebook using Python. 
+The folder `datasets` contain the processed datasets after some of the raw data from `raw_datasets/` have been initially cleaned using Excel. The files in this folder are ready for import and further cleaning in the `code/` main notebook using Python. 
 
-This folder contains the following processed files and its overview of how manual processing via Excel was done:
+This folder contains the following processed files. Also detailed below is an overview of how manual processing via Excel was done:
 - year_state_suicide.csv: This file contains manually processed and initially cleaned data from the CDC Wonder raw datasets, specifically 2000 to 2020 Year State Suicides.txt and 2018 to 2022 Year State Suicides.txt.
   1. The raw datasets above were merged. The overlapping rows of data from 2018 to 2020 were removed in the 2018 to 2022 Year State Suicides.txt.
   2. The 'Notes' column was removed.
@@ -79,28 +79,30 @@ This folder contains the following processed files and its overview of how manua
 - veteran_suicides_by_states.csv: This file contains the veteran suicides per year, geographic region and state from the US Department of Veterans Affairs for years 2001 to 2021, specifically from the raw file VA_State_Sheets_2001-2021_Appendix_508.xlsx.
   1. Raw data from the 'Veteran Suicides by State' tab was copy and pasted to a clean CSV file.
 - Depression all.csv: This file combined the depression per 100k from depression dataset within years 2020 to 2022, specifically the files Depression 2020.xlsx, Depression 2021.xlsx, and Depression 2022.xlsx.
-  1. Raw data from the years were merged to 1 dataset.
+  1. Raw data from the different years were merged to 1 dataset.
 
 The  `datasets/` folder also includes two raw datasets which only underwent cleaning via Python (and not Excel). The code for cleaning these files are documented in `code/`.
 - Unemployment in America Per US State.csv: This file contains unemployment data from the US Bureau of Labor Statistics from 2000 to 2022.
 - us_states_areas.csv: This file contains the Total Area in square miles for each state from the US Census Bureau.
 
 ### Main Notebook Code (code/)
-The folder `code/` contains the 3 main Python notebooks for the project:
-1. **Main Python Notebook.ipynb:** This notebook contains the main original code for the Exploratory Data Analysis spanning the years 2000 to 2022. To use the code itself, running the Main Python Notebook is sufficient.
-2. **2000 to 2010 Analysis.ipynb:** This notebook contains the same Python code as the Main Python Notebook, but only filtered for the years 2000 to 2010, to compare the EDA results from the earliest 11 years of the dataset.
-3. **2011 to 2022 Analysis.ipynb:** This notebook contains the same Python code as the Main Python Notebook, but only filtered for the years 2011 to 2022, to compare the EDA results from the latest 12 years of the dataset.
+The folder `code/` contains 2 sub-folders:
+1. `final-notebook/` which contains the main project notebook:
+   - **TheChartToppers_FinalNotebook.ipynb:** This notebook contains the main original code for the Exploratory Data Analysis spanning the years 2000 to 2022. For the project, running this notebook is sufficient.
+3. `supporting-notebooks/` which contains two Python supporting notebooks:
+   - **2000-2010_notebook.ipynb:** This notebook contains the same Python code as the main notebook TheChartToppers_FinalNotebook.ipynb, but only filtered for the years 2000 to 2010, to compare the Exploratory Data Analysis results from the earliest 11 years of the dataset.
+   - **2011-2022_notebook.ipynb:** This notebook contains the same Python code as the main notebook TheChartToppers_FinalNotebook.ipynb, but only filtered for the years 2011 to 2022, to compare the Exploratory Data Analysis results from the most recent 12 years of the dataset.
 
 Each notebook is divided into 2 parts:
-- **Importing and Cleaning the Datasets:** This section includes all of the raw and processed datasets from  `datasets/`, which are imported and further cleaned in the Main Python notebook.ipynb.
-- **Exploratory Data Analysis:** This section presents the different line charts, bar charts, maps, scatter plots and other types of visualizations to answer the project’s main research question: What key factors significantly impact suicide rates in the United States?
-The various visualizations are done using different Python packages, which needs to be installed before running the Main Python Notebook. See installation guide above. 
+- **Importing and Cleaning the Datasets:** This section includes all of the raw and processed datasets from  `datasets/`, which are imported and further cleaned in the main notebook TheChartToppers_FinalNotebook.ipynb.
+- **Exploratory Data Analysis:** This section presents the different line charts, bar charts, maps, scatter plots and other types of visualizations to answer the project’s main research question: *What key factors significantly impact suicide rates in the United States?*
+The visualizations are done using different Python packages such as plotly and matplotlib, which needs to be installed before running the Main Python Notebook. See installation guide above. 
 
 ### Miscellaneous (miscellaneous/)
 The folder `miscellaneous/` contains images and other files relevant to the project.
 
 ## Data Sources
-Below are the formal citations where the files from `raw_datasets/` and `datasets/` were obtained from.
+Below are the formal APA citations where the files from `raw_datasets/` and `datasets/` were obtained from.
 
 **Demographic Data:**
 1. 2000 to 2020 Year State Suicides.txt: Centers for Disease Control and Prevention. (n.d.). State suicide mortality rates (2000 to 2020) [Data set]. CDC Wonder Current Final Multiple Cause of Death Data. Retrieved October 18, 2024 from https://wonder.cdc.gov/mcd.html
