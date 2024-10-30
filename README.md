@@ -70,7 +70,7 @@ This folder contains the following processed files. Also detailed below is an ov
 - median_household_income_by_state_2000-2023.csv: This file contains manually processed and initially cleaned data from the US Census Bureau Median Income raw dataset, specifically only the relevant years from H08 Median Household Income by State 1984 to 2023.xlsx.
   1. The first 7 rows from the raw dataset were removed, which only contained text information on the data.
   2. There are 2 columns for the year 2017. The column '2017 (40)' was chosen as it reflected estimates from an updated data processing system based on the footnote 40 from https://www.census.gov/topics/income-poverty/income/guidance/cps-historic-footnotes.html.
-  3. There are 2 columns for the year 2013. Because '2013 A new column for 2013 was created, where a weighted average of the median income for 2013 was calculated, based on footnotes 38 and 39 from the above link.
+  3. There are 2 columns for the year 2013. A new column for 2013 was created, where a weighted average of the median income for 2013 was calculated, based on footnotes 38 and 39 from the above link.
 - Illicit Drug Use Other Than Mar.csv: This file contains illicit drug use data Substance Abuse and Mental Health Services Administration for years 2014, 2016 to 2019, and 2022 from the raw files of NSDUHsaeTotals2014.xlsx, NSDUHsae2015.xlsx, NSDUHsae2016.xlsx, NSDUHsae2017.xlsx, NSDUHsaeTotals2018.xlsx, 2019NSDUHsaeTotals.xlsx, and 2022-nsduh-sae-totals-tables.xlsx.
   1. Raw data from the years were merged to 1 dataset.
   2. Further processing was done via Python as documented in `code`.
